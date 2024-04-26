@@ -1,0 +1,910 @@
+Salesperson,Product,Region,Customer,Date,Item Cost,No.Items,Total Revenue,Margin,Shipping Cost
+"Sharma, Varun",Glass Centre Table,North East,Metro Emporium,19-Jul-22,65.91,4,263.64,52.728,5.2728
+"Sharma, Varun",Wodden Coffee Table,North East,Elite Designs,20-Nov-21,114.37,4,457.48,91.496,9.1496
+"Sharma, Varun",Marble Dining Table,North East,Home INDIA,14-Jan-21,440.58,4,1762.32,352.464,35.2464
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Metro Emporium,28-Mar-22,48.37,4,193.48,38.696,3.8696
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Home INDIA,16-Aug-22,357.73,3,1073.19,214.638,21.4638
+"Sharma, Varun",Marble Dining Table,North East,Designer Homes,25-Apr-21,458.99,7,3212.93,642.586,64.2586
+"Sharma, Varun",Wodden Coffee Table,North East,Metro Emporium,26-Nov-22,81.35,1,81.35,16.27,1.627
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,03-Oct-21,82.02,22,1804.44,360.888,18.0444
+"Sharma, Varun",Bamboo Foam Couch,North East,Designer Homes,09-Sep-21,705.13,4,2820.52,564.104,56.4104
+"Sharma, Varun",Glass Centre Table,North East,Designer Homes,15-Aug-22,74.25,8,594,118.8,11.88
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,12-Feb-21,267.06,14,3738.84,747.768,37.3884
+"Sharma, Varun",Bamboo Foam Couch,North East,Elite Designs,24-Aug-21,1114.81,4,4459.24,891.848,89.1848
+"Sharma, Varun",Glass Centre Table,North East,Elite Designs,18-Mar-21,80.09,10,800.9,160.18,16.018
+"Sharma, Varun",Bamboo Foam Couch,North East,Elite Designs,19-Jun-22,1103.06,1,1103.06,220.612,22.0612
+"Sharma, Varun",Bamboo Foam Couch,North East,Style and Spa,19-Jun-21,772.38,21,16219.98,3243.996,162.1998
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,03-Feb-22,109.65,14,1535.1,307.02,15.351
+"Sharma, Varun",Wodden Coffee Table,North East,Home INDIA,08-Oct-21,44.85,4,179.4,35.88,3.588
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,28-Dec-21,56.04,22,1232.88,246.576,12.3288
+"Sharma, Varun",Wodden Coffee Table,North East,Metro Emporium,29-Oct-21,263.9,16,4222.4,844.48,42.224
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,18-Sep-22,136.4,22,3000.8,600.16,30.008
+"Sharma, Varun",Bamboo Foam Couch,North East,Home INDIA,12-Aug-22,1201.66,13,15621.58,3124.316,156.2158
+"Sharma, Varun",Wodden Coffee Table,North East,Designer Homes,05-Feb-22,66.58,6,399.48,79.896,7.9896
+"Sharma, Varun",Marble Dining Table,North East,Metro Emporium,29-Jan-22,375.51,8,3004.08,600.816,60.0816
+"Sharma, Varun",Bamboo Foam Couch,North East,Elite Designs,24-Nov-22,650.85,11,7159.35,1431.87,71.5935
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Home INDIA,30-Jun-22,50.09,2,100.18,20.036,2.0036
+"Sharma, Varun",Marble Dining Table,North East,Designer Homes,01-Dec-22,154.04,2,308.08,61.616,6.1616
+"Sharma, Varun",Marble Dining Table,North East,Home INDIA,10-Apr-22,210.16,6,1260.96,252.192,25.2192
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Designer Homes,21-Jan-22,231.98,8,1855.84,371.168,37.1168
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Elite Designs,04-Dec-22,344.39,10,3443.9,688.78,68.878
+"Sharma, Varun",Wodden Coffee Table,North East,Metro Emporium,20-Dec-21,22.63,12,271.56,54.312,2.7156
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Designer Homes,13-Aug-22,429.71,7,3007.97,601.594,60.1594
+"Sharma, Varun",Marble Dining Table,North East,Home INDIA,15-Apr-21,413.53,4,1654.12,330.824,33.0824
+"Sharma, Varun",Bamboo Foam Couch,North East,Home INDIA,30-Jan-21,237.5,7,1662.5,332.5,33.25
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,30-Dec-21,117.97,22,2595.34,519.068,25.9534
+"Sharma, Varun",Marble Dining Table,North East,Elite Designs,22-Jan-21,121.01,4,484.04,96.808,9.6808
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Designer Homes,06-Apr-21,205.31,5,1026.55,205.31,20.531
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,19-May-22,24.13,19,458.47,91.694,4.5847
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,05-Jul-22,248.49,8,1987.92,397.584,39.7584
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Home INDIA,01-Feb-21,502.68,6,3016.08,603.216,60.3216
+"Sharma, Varun",Bamboo Foam Couch,North East,Home INDIA,28-Oct-22,1049.38,5,5246.9,1049.38,104.938
+"Sharma, Varun",Glass Centre Table,North East,Designer Homes,25-Jun-22,12.74,3,38.22,7.644,0.7644
+"Sharma, Varun",Marble Dining Table,North East,Metro Emporium,15-Apr-22,250.38,13,3254.94,650.988,32.5494
+"Sharma, Varun",Marble Dining Table,North East,Home INDIA,29-Nov-21,147.58,13,1918.54,383.708,19.1854
+"Sharma, Varun",Marble Dining Table,North East,Style and Spa,27-Oct-22,296.15,17,5034.55,1006.91,50.3455
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Style and Spa,22-Nov-21,270.81,8,2166.48,433.296,43.3296
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,10-Oct-22,222.94,8,1783.52,356.704,35.6704
+"Sharma, Varun",Marble Dining Table,North East,Home INDIA,18-Sep-22,513.03,14,7182.42,1436.484,71.8242
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,12-Feb-21,22.13,8,177.04,35.408,3.5408
+"Sharma, Varun",Marble Dining Table,North East,Home INDIA,22-Dec-22,122.25,16,1956,391.2,19.56
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Home INDIA,07-Jul-22,93.2,7,652.4,130.48,13.048
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Designer Homes,12-Mar-21,502.73,6,3016.38,603.276,60.3276
+"Sharma, Varun",Bamboo Foam Couch,North East,Style and Spa,15-Aug-22,58.29,17,990.93,198.186,9.9093
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Metro Emporium,27-Dec-21,470.96,3,1412.88,282.576,28.2576
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Elite Designs,01-May-21,334.72,8,2677.76,535.552,53.5552
+"Sharma, Varun",Wodden Coffee Table,North East,Elite Designs,25-Sep-22,250.7,6,1504.2,300.84,30.084
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Style and Spa,06-Feb-21,13.81,19,262.39,52.478,2.6239
+"Sharma, Varun",Bamboo Foam Couch,North East,Style and Spa,25-Jun-22,668.67,19,12704.73,2540.946,127.0473
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Elite Designs,24-Feb-22,352.43,12,4229.16,845.832,42.2916
+"Sharma, Varun",Marble Dining Table,North East,Elite Designs,08-Apr-22,159.09,4,636.36,127.272,12.7272
+"Sharma, Varun",Bamboo Foam Couch,North East,Elite Designs,06-Nov-22,77.1,2,154.2,30.84,3.084
+"Sharma, Varun",Glass Centre Table,North East,Home INDIA,22-Jun-21,16.55,3,49.65,9.93,0.993
+"Sharma, Varun",Marble Dining Table,North East,Elite Designs,09-Sep-22,540.31,15,8104.65,1620.93,81.0465
+"Sharma, Varun",Marble Dining Table,North East,Elite Designs,09-Jun-22,143.61,7,1005.27,201.054,20.1054
+"Sharma, Varun",Bamboo Foam Couch,North East,Elite Designs,21-Jan-22,543.42,3,1630.26,326.052,32.6052
+"Sharma, Varun",Wodden Coffee Table,North East,Metro Emporium,16-Dec-22,216.91,7,1518.37,303.674,30.3674
+"Sharma, Varun",Wodden Coffee Table,North East,Elite Designs,29-Nov-21,215.78,3,647.34,129.468,12.9468
+"Sharma, Varun",Glass Centre Table,North East,Metro Emporium,12-May-22,19.62,11,215.82,43.164,2.1582
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Style and Spa,06-Jan-21,430.82,10,4308.2,861.64,86.164
+"Sharma, Varun",Marble Dining Table,North East,Designer Homes,12-Sep-21,345.04,11,3795.44,759.088,37.9544
+"Sharma, Varun",Marble Dining Table,North East,Home INDIA,12-May-22,199.46,5,997.3,199.46,19.946
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Elite Designs,10-May-22,20.81,11,228.91,45.782,2.2891
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Metro Emporium,23-Jul-21,297.86,14,4170.04,834.008,41.7004
+"Sharma, Varun",Bamboo Foam Couch,North East,Home INDIA,22-Dec-22,62.46,3,187.38,37.476,3.7476
+"Sharma, Varun",Bamboo Foam Couch,North East,Elite Designs,14-Dec-21,232.27,7,1625.89,325.178,32.5178
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Designer Homes,17-Jul-21,113.44,2,226.88,45.376,4.5376
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Style and Spa,06-Feb-21,359.57,16,5753.12,1150.624,57.5312
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,08-Nov-22,14.21,10,142.1,28.42,2.842
+"Sharma, Varun",Bamboo Foam Couch,North East,Metro Emporium,26-Nov-21,606.14,15,9092.1,1818.42,90.921
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,19-Feb-21,0.1,22,2.2,0.44,0.022
+"Sharma, Varun",Bamboo Foam Couch,North East,Style and Spa,23-Dec-22,212.42,10,2124.2,424.84,42.484
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,12-Feb-21,98.98,8,791.84,158.368,15.8368
+"Sharma, Varun",Marble Dining Table,North East,Style and Spa,25-Nov-21,533.07,8,4264.56,852.912,85.2912
+"Sharma, Varun",Marble Dining Table,North East,Designer Homes,24-Sep-22,475.61,11,5231.71,1046.342,52.3171
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,26-Aug-21,121.67,13,1581.71,316.342,15.8171
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Home INDIA,30-Dec-22,219.56,15,3293.4,658.68,32.934
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,06-Jun-22,166.8,6,1000.8,200.16,20.016
+"Sharma, Varun",Bamboo Foam Couch,North East,Metro Emporium,27-May-21,442.45,11,4866.95,973.39,48.6695
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,26-Jul-22,53.23,19,1011.37,202.274,10.1137
+"Sharma, Varun",Marble Dining Table,North East,Elite Designs,14-Mar-21,382.69,5,1913.45,382.69,38.269
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,01-Jan-22,119.11,10,1191.1,238.22,23.822
+"Sharma, Varun",Bamboo Foam Couch,North East,Metro Emporium,25-Nov-22,829.35,11,9122.85,1824.57,91.2285
+"Sharma, Varun",Glass Centre Table,North East,Elite Designs,03-Jul-22,36.17,4,144.68,28.936,2.8936
+"Sharma, Varun",Marble Dining Table,North East,Designer Homes,22-Nov-21,438.89,8,3511.12,702.224,70.2224
+"Sharma, Varun",Wodden Coffee Table,North East,Designer Homes,20-May-22,252.7,14,3537.8,707.56,35.378
+"Sharma, Varun",Bamboo Foam Couch,North East,Metro Emporium,28-Apr-22,1091.16,11,12002.76,2400.552,120.0276
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Elite Designs,02-Aug-21,94.59,11,1040.49,208.098,10.4049
+"Sharma, Varun",Wodden Coffee Table,North East,Metro Emporium,06-Nov-22,20.68,7,144.76,28.952,2.8952
+"Sharma, Varun",Bamboo Foam Couch,North East,Elite Designs,30-Jan-21,135,11,1485,297,14.85
+"Sharma, Varun",Bamboo Foam Couch,North East,Home INDIA,02-Apr-21,429.73,7,3008.11,601.622,60.1622
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,08-Jan-22,188.24,22,4141.28,828.256,41.4128
+"Sharma, Varun",Marble Dining Table,North East,Metro Emporium,28-Nov-21,500.58,10,5005.8,1001.16,100.116
+"Sharma, Varun",Bamboo Foam Couch,North East,Metro Emporium,14-Oct-22,810.27,3,2430.81,486.162,48.6162
+"Sharma, Varun",Bamboo Foam Couch,North East,Designer Homes,18-Jun-21,1111.15,3,3333.45,666.69,66.669
+"Sharma, Varun",Glass Centre Table,North East,Home INDIA,31-Jul-21,15.41,11,169.51,33.902,1.6951
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,12-Feb-21,93.31,15,1399.65,279.93,13.9965
+"Sharma, Varun",Glass Centre Table,North East,Elite Designs,26-Jul-21,83.13,10,831.3,166.26,16.626
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,27-Mar-21,125.64,22,2764.08,552.816,27.6408
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Home INDIA,09-Apr-22,441.28,4,1765.12,353.024,35.3024
+"Sharma, Varun",Wodden Coffee Table,North East,Designer Homes,11-Jul-21,195.57,15,2933.55,586.71,29.3355
+"Sharma, Varun",Wodden Coffee Table,North East,Metro Emporium,14-Nov-22,102.74,6,616.44,123.288,12.3288
+"Sharma, Varun",Marble Dining Table,North East,Style and Spa,15-Dec-22,356.38,14,4989.32,997.864,49.8932
+"Sharma, Varun",Marble Dining Table,North East,Designer Homes,25-Nov-22,396.81,11,4364.91,872.982,43.6491
+"Sharma, Varun",Bamboo Foam Couch,North East,Home INDIA,02-Aug-22,95.28,7,666.96,133.392,13.3392
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Home INDIA,17-Jan-22,9.73,13,126.49,25.298,1.2649
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Designer Homes,12-Nov-21,435.12,4,1740.48,348.096,34.8096
+"Sharma, Varun",Marble Dining Table,North East,Home INDIA,01-Mar-22,458.64,12,5503.68,1100.736,55.0368
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Designer Homes,26-May-22,440.82,11,4849.02,969.804,48.4902
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Designer Homes,06-Sep-22,251.71,7,1761.97,352.394,35.2394
+"Sharma, Varun",Bamboo Foam Couch,North East,Metro Emporium,26-Nov-22,521.68,6,3130.08,626.016,62.6016
+"Puri, Silky",Marble Dining Table,North East,Home INDIA,01-Mar-22,434.99,12,5219.88,1043.976,52.1988
+"Puri, Silky",Wodden Coffee Table,North East,Home INDIA,19-Nov-21,55.2,5,276,55.2,5.52
+"Puri, Silky",Wodden Coffee Table,North East,Home INDIA,22-Oct-21,161.87,2,323.74,64.748,6.4748
+"Puri, Silky",Wodden Coffee Table,North East,Style and Spa,17-Feb-22,102.46,15,1536.9,307.38,15.369
+"Puri, Silky",Marble Dining Table,North East,Designer Homes,24-Jul-21,242.44,7,1697.08,339.416,33.9416
+"Puri, Silky",Marble Dining Table,North East,Style and Spa,13-Jun-21,37.02,20,740.4,148.08,7.404
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Style and Spa,06-Feb-21,195.91,10,1959.1,391.82,39.182
+"Puri, Silky",Bamboo Foam Couch,North East,Designer Homes,23-Apr-22,616.17,5,3080.85,616.17,61.617
+"Puri, Silky",Marble Dining Table,North East,Metro Emporium,25-Apr-21,310.69,4,1242.76,248.552,24.8552
+"Puri, Silky",Wodden Coffee Table,North East,Style and Spa,03-Jun-21,254.76,15,3821.4,764.28,38.214
+"Puri, Silky",Marble Dining Table,North East,Metro Emporium,14-Mar-22,411.84,12,4942.08,988.416,49.4208
+"Puri, Silky",Bamboo Foam Couch,North East,Style and Spa,16-Jan-21,740.83,6,4444.98,888.996,88.8996
+"Puri, Silky",Bamboo Foam Couch,North East,Home INDIA,10-Jun-22,125.26,3,375.78,75.156,7.5156
+"Puri, Silky",Glass Centre Table,North East,Elite Designs,16-Jul-21,88.84,2,177.68,35.536,3.5536
+"Puri, Silky",Bamboo Foam Couch,North East,Elite Designs,20-Jul-21,231.69,15,3475.35,695.07,34.7535
+"Puri, Silky",Glass Centre Table,North East,Metro Emporium,27-Feb-22,37.14,6,222.84,44.568,4.4568
+"Puri, Silky",Bamboo Foam Couch,North East,Designer Homes,25-Jun-21,157.88,10,1578.8,315.76,31.576
+"Puri, Silky",Glass Centre Table,North East,Metro Emporium,15-Oct-21,37.82,2,75.64,15.128,1.5128
+"Puri, Silky",Glass Centre Table,North East,Elite Designs,28-Jun-22,43.27,6,259.62,51.924,5.1924
+"Puri, Silky",Marble Dining Table,North East,Metro Emporium,28-Dec-21,343,8,2744,548.8,54.88
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Elite Designs,17-Sep-21,53.67,8,429.36,85.872,8.5872
+"Puri, Silky",Marble Dining Table,North East,Style and Spa,23-Mar-21,414.42,17,7045.14,1409.028,70.4514
+"Puri, Silky",Bamboo Foam Couch,North East,Elite Designs,31-Oct-21,199.35,4,797.4,159.48,15.948
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Metro Emporium,18-May-21,439.82,13,5717.66,1143.532,57.1766
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Style and Spa,22-Feb-22,455.53,21,9566.13,1913.226,95.6613
+"Puri, Silky",Glass Centre Table,North East,Elite Designs,09-Sep-22,122.34,2,244.68,48.936,4.8936
+"Puri, Silky",Glass Centre Table,North East,Metro Emporium,17-Jul-22,102.23,13,1328.99,265.798,13.2899
+"Puri, Silky",Marble Dining Table,North East,Style and Spa,04-Mar-21,181.5,22,3993,798.6,39.93
+"Puri, Silky",Marble Dining Table,North East,Elite Designs,29-Jul-21,287.46,3,862.38,172.476,17.2476
+"Puri, Silky",Marble Dining Table,North East,Metro Emporium,26-Jun-21,346.15,6,2076.9,415.38,41.538
+"Puri, Silky",Wodden Coffee Table,North East,Metro Emporium,03-Jun-22,107.22,4,428.88,85.776,8.5776
+"Puri, Silky",Glass Centre Table,North East,Metro Emporium,13-May-22,46.08,16,737.28,147.456,7.3728
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Elite Designs,22-Oct-21,74.26,6,445.56,89.112,8.9112
+"Puri, Silky",Wodden Coffee Table,North East,Home INDIA,10-Dec-21,138.02,16,2208.32,441.664,22.0832
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Style and Spa,28-May-21,417.73,15,6265.95,1253.19,62.6595
+"Puri, Silky",Marble Dining Table,North East,Elite Designs,07-Jan-22,403.59,2,807.18,161.436,16.1436
+"Puri, Silky",Bamboo Foam Couch,North East,Style and Spa,25-Jun-21,731.86,21,15369.06,3073.812,153.6906
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Style and Spa,12-Jul-21,380.22,10,3802.2,760.44,76.044
+"Puri, Silky",Wodden Coffee Table,North East,Elite Designs,26-May-22,204.51,13,2658.63,531.726,26.5863
+"Puri, Silky",Wodden Coffee Table,North East,Designer Homes,15-Aug-22,44.87,5,224.35,44.87,4.487
+"Puri, Silky",Wodden Coffee Table,North East,Home INDIA,27-Mar-22,1.61,10,16.1,3.22,0.322
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Elite Designs,12-Sep-21,217.31,3,651.93,130.386,13.0386
+"Puri, Silky",Marble Dining Table,North East,Style and Spa,14-Aug-21,443.87,22,9765.14,1953.028,97.6514
+"Puri, Silky",Glass Centre Table,North East,Metro Emporium,07-Feb-22,77.2,1,77.2,15.44,1.544
+"Puri, Silky",Bamboo Foam Couch,North East,Elite Designs,07-Aug-21,456.83,8,3654.64,730.928,73.0928
+"Puri, Silky",Wodden Coffee Table,North East,Home INDIA,08-Jan-22,57.27,4,229.08,45.816,4.5816
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Home INDIA,28-Jun-22,367.25,5,1836.25,367.25,36.725
+"Puri, Silky",Glass Centre Table,North East,Designer Homes,07-Jul-22,39.08,16,625.28,125.056,6.2528
+"Puri, Silky",Marble Dining Table,North East,Home INDIA,20-Apr-21,66.12,5,330.6,66.12,6.612
+"Puri, Silky",Wodden Coffee Table,North East,Style and Spa,16-Nov-21,136.23,16,2179.68,435.936,21.7968
+"Puri, Silky",Bamboo Foam Couch,North East,Elite Designs,16-Mar-21,228.37,12,2740.44,548.088,27.4044
+"Puri, Silky",Glass Centre Table,North East,Style and Spa,19-Feb-21,29.63,16,474.08,94.816,4.7408
+"Puri, Silky",Glass Centre Table,North East,Home INDIA,21-Jan-22,11.21,15,168.15,33.63,1.6815
+"Puri, Silky",Marble Dining Table,North East,Elite Designs,19-Jun-22,50.32,3,150.96,30.192,3.0192
+"Puri, Silky",Wodden Coffee Table,North East,Metro Emporium,09-Apr-21,218.33,14,3056.62,611.324,30.5662
+"Puri, Silky",Bamboo Foam Couch,North East,Home INDIA,23-Dec-21,805.08,6,4830.48,966.096,96.6096
+"Puri, Silky",Bamboo Foam Couch,North East,Style and Spa,13-Jul-21,618.55,15,9278.25,1855.65,92.7825
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Home INDIA,18-May-21,36.49,5,182.45,36.49,3.649
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Style and Spa,06-Feb-21,473.02,13,6149.26,1229.852,61.4926
+"Puri, Silky",Marble Dining Table,North East,Elite Designs,22-Oct-21,517.99,7,3625.93,725.186,72.5186
+"Puri, Silky",Glass Centre Table,North East,Elite Designs,08-Oct-21,36.39,4,145.56,29.112,2.9112
+"Puri, Silky",Glass Centre Table,North East,Metro Emporium,25-Jun-21,121.5,11,1336.5,267.3,13.365
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Style and Spa,11-Jun-21,200.79,14,2811.06,562.212,28.1106
+"Puri, Silky",Glass Centre Table,North East,Home INDIA,11-Jan-21,3.41,11,37.51,7.502,0.3751
+"Puri, Silky",Marble Dining Table,North East,Designer Homes,18-Jul-22,95.7,3,287.1,57.42,5.742
+"Puri, Silky",Wodden Coffee Table,North East,Designer Homes,06-Aug-21,219.23,16,3507.68,701.536,35.0768
+"Puri, Silky",Glass Centre Table,North East,Designer Homes,09-Sep-21,25.46,1,25.46,5.092,0.5092
+"Puri, Silky",Glass Centre Table,North East,Metro Emporium,29-Jul-22,6.91,11,76.01,15.202,0.7601
+"Puri, Silky",Marble Dining Table,North East,Designer Homes,16-Aug-22,427.23,16,6835.68,1367.136,68.3568
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Metro Emporium,29-Mar-22,433.2,6,2599.2,519.84,51.984
+"Puri, Silky",Marble Dining Table,North East,Designer Homes,22-Oct-21,111.96,2,223.92,44.784,4.4784
+"Puri, Silky",Bamboo Foam Couch,North East,Metro Emporium,30-Apr-21,919.83,2,1839.66,367.932,36.7932
+"Puri, Silky",Marble Dining Table,North East,Home INDIA,04-Dec-21,270.94,16,4335.04,867.008,43.3504
+"Puri, Silky",Wodden Coffee Table,North East,Elite Designs,01-Feb-22,41.28,4,165.12,33.024,3.3024
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Metro Emporium,17-Dec-21,432.13,2,864.26,172.852,17.2852
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Home INDIA,28-Oct-21,51.13,2,102.26,20.452,2.0452
+"Puri, Silky",Marble Dining Table,North East,Elite Designs,16-Aug-22,379.54,10,3795.4,759.08,75.908
+"Puri, Silky",Wodden Coffee Table,North East,Style and Spa,10-Jan-22,251.88,17,4281.96,856.392,42.8196
+"Puri, Silky",Marble Dining Table,North East,Home INDIA,16-Jul-21,484.19,14,6778.66,1355.732,67.7866
+"Puri, Silky",Marble Dining Table,North East,Home INDIA,02-Dec-21,443.89,15,6658.35,1331.67,66.5835
+"Puri, Silky",Bamboo Foam Couch,North East,Elite Designs,21-Jun-22,1020.13,13,13261.69,2652.338,132.6169
+"Puri, Silky",Glass Centre Table,North East,Style and Spa,22-Apr-22,63.98,7,447.86,89.572,8.9572
+"Puri, Silky",Glass Centre Table,North East,Style and Spa,09-Dec-21,18.71,14,261.94,52.388,2.6194
+"Puri, Silky",Bamboo Foam Couch,North East,Metro Emporium,12-Jun-21,932.21,3,2796.63,559.326,55.9326
+"Sinha, Anoop",Wodden Coffee Table,North East,Metro Emporium,25-Dec-21,67.64,13,879.32,175.864,8.7932
+"Arya, Gunjan",Bamboo Foam Couch,North East,Metro Emporium,21-Mar-21,682.48,10,6824.8,1364.96,136.496
+"Arya, Gunjan",Marble Dining Table,North East,Style and Spa,29-Jan-21,529.97,8,4239.76,847.952,84.7952
+"Arya, Gunjan",Glass Centre Table,North East,Home INDIA,26-Jan-21,41.74,12,500.88,100.176,5.0088
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Home INDIA,08-Apr-21,386.16,3,1158.48,231.696,23.1696
+"Sinha, Anoop",Marble Dining Table,North East,Designer Homes,01-Apr-22,524.74,14,7346.36,1469.272,73.4636
+"Sinha, Anoop",Bamboo Foam Couch,North East,Home INDIA,21-Jun-21,823.08,12,9876.96,1975.392,98.7696
+"Sinha, Anoop",Glass Centre Table,North East,Elite Designs,20-Aug-22,105.14,14,1471.96,294.392,14.7196
+"Arya, Gunjan",Wodden Coffee Table,North East,Elite Designs,18-Jun-21,192.54,10,1925.4,385.08,38.508
+"Sinha, Anoop",Bamboo Foam Couch,North East,Metro Emporium,11-May-21,747.96,6,4487.76,897.552,89.7552
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Designer Homes,17-Jan-22,269.02,2,538.04,107.608,10.7608
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Home INDIA,06-Sep-21,103.04,1,103.04,20.608,2.0608
+"Sinha, Anoop",Bamboo Foam Couch,North East,Metro Emporium,07-Feb-22,1059.43,6,6356.58,1271.316,127.1316
+"Arya, Gunjan",Glass Centre Table,North East,Metro Emporium,19-Apr-21,26.06,8,208.48,41.696,4.1696
+"Sinha, Anoop",Bamboo Foam Couch,North East,Elite Designs,19-Aug-21,448.71,1,448.71,89.742,8.9742
+"Arya, Gunjan",Marble Dining Table,North East,Style and Spa,06-Aug-21,192.62,7,1348.34,269.668,26.9668
+"Arya, Gunjan",Marble Dining Table,North East,Style and Spa,09-Sep-21,235.31,7,1647.17,329.434,32.9434
+"Arya, Gunjan",Bamboo Foam Couch,North East,Designer Homes,29-Jul-21,277.53,10,2775.3,555.06,55.506
+"Sinha, Anoop",Marble Dining Table,North East,Home INDIA,16-Oct-21,263.29,3,789.87,157.974,15.7974
+"Sinha, Anoop",Glass Centre Table,North East,Elite Designs,19-Nov-21,99.34,8,794.72,158.944,15.8944
+"Arya, Gunjan",Bamboo Foam Couch,North East,Style and Spa,20-Feb-21,835.95,20,16719,3343.8,167.19
+"Sinha, Anoop",Glass Centre Table,North East,Home INDIA,16-Oct-21,61.58,1,61.58,12.316,1.2316
+"Arya, Gunjan",Glass Centre Table,North East,Elite Designs,18-Jan-22,54.29,2,108.58,21.716,2.1716
+"Arya, Gunjan",Bamboo Foam Couch,North East,Metro Emporium,19-Feb-21,129.08,5,645.4,129.08,12.908
+"Sinha, Anoop",Glass Centre Table,North East,Metro Emporium,24-Dec-21,29.21,3,87.63,17.526,1.7526
+"Arya, Gunjan",Marble Dining Table,North East,Elite Designs,09-Jan-22,299.19,1,299.19,59.838,5.9838
+"Sinha, Anoop",Bamboo Foam Couch,North East,Designer Homes,18-Sep-22,662.15,10,6621.5,1324.3,132.43
+"Sinha, Anoop",Wodden Coffee Table,North East,Elite Designs,24-May-21,137.59,4,550.36,110.072,11.0072
+"Sinha, Anoop",Wodden Coffee Table,North East,Style and Spa,04-Nov-21,155.34,12,1864.08,372.816,18.6408
+"Sinha, Anoop",Wodden Coffee Table,North East,Elite Designs,24-Dec-21,121.77,10,1217.7,243.54,24.354
+"Sinha, Anoop",Bamboo Foam Couch,North East,Elite Designs,03-Oct-22,593.95,10,5939.5,1187.9,118.79
+"Arya, Gunjan",Wodden Coffee Table,North East,Home INDIA,16-Feb-21,84.86,12,1018.32,203.664,10.1832
+"Sinha, Anoop",Glass Centre Table,North East,Metro Emporium,30-Aug-21,97.52,13,1267.76,253.552,12.6776
+"Arya, Gunjan",Glass Centre Table,North East,Style and Spa,18-May-21,107.75,7,754.25,150.85,15.085
+"Sinha, Anoop",Marble Dining Table,North East,Style and Spa,23-Dec-22,4.94,22,108.68,21.736,1.0868
+"Arya, Gunjan",Marble Dining Table,North East,Style and Spa,01-Aug-21,349.24,12,4190.88,838.176,41.9088
+"Arya, Gunjan",Glass Centre Table,North East,Home INDIA,04-Jun-21,90.3,13,1173.9,234.78,11.739
+"Arya, Gunjan",Glass Centre Table,North East,Elite Designs,09-Sep-21,116.42,14,1629.88,325.976,16.2988
+"Arya, Gunjan",Glass Centre Table,North East,Home INDIA,09-Jul-21,16.9,13,219.7,43.94,2.197
+"Arya, Gunjan",Glass Centre Table,North East,Elite Designs,10-Apr-21,108.81,14,1523.34,304.668,15.2334
+"Sinha, Anoop",Marble Dining Table,North East,Home INDIA,19-Jun-21,223.66,15,3354.9,670.98,33.549
+"Arya, Gunjan",Marble Dining Table,North East,Designer Homes,27-Jun-21,286.72,16,4587.52,917.504,45.8752
+"Arya, Gunjan",Marble Dining Table,North East,Style and Spa,03-Oct-21,131.76,21,2766.96,553.392,27.6696
+"Sinha, Anoop",Marble Dining Table,North East,Elite Designs,09-Dec-22,112.91,7,790.37,158.074,15.8074
+"Arya, Gunjan",Glass Centre Table,North East,Style and Spa,21-Dec-21,51.63,21,1084.23,216.846,10.8423
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Elite Designs,17-Dec-21,415.51,10,4155.1,831.02,83.102
+"Sinha, Anoop",Bamboo Foam Couch,North East,Designer Homes,10-Jan-22,396.58,16,6345.28,1269.056,63.4528
+"Sinha, Anoop",Bamboo Foam Couch,North East,Home INDIA,27-May-22,95.55,4,382.2,76.44,7.644
+"Arya, Gunjan",Bamboo Foam Couch,North East,Home INDIA,20-Sep-21,254.67,12,3056.04,611.208,30.5604
+"Sinha, Anoop",Glass Centre Table,North East,Style and Spa,28-Jun-21,115.12,13,1496.56,299.312,14.9656
+"Sinha, Anoop",Marble Dining Table,North East,Metro Emporium,23-Apr-21,67.43,1,67.43,13.486,1.3486
+"Sinha, Anoop",Glass Centre Table,North East,Style and Spa,18-Apr-21,86.59,13,1125.67,225.134,11.2567
+"Arya, Gunjan",Wodden Coffee Table,North East,Designer Homes,13-Jan-22,73.63,1,73.63,14.726,1.4726
+"Arya, Gunjan",Marble Dining Table,North East,Designer Homes,08-Oct-21,475.26,6,2851.56,570.312,57.0312
+"Arya, Gunjan",Bamboo Foam Couch,North East,Home INDIA,14-Sep-21,1058,11,11638,2327.6,116.38
+"Sinha, Anoop",Wodden Coffee Table,North East,Style and Spa,30-Dec-21,250.11,10,2501.1,500.22,50.022
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Home INDIA,08-Oct-21,338.59,16,5417.44,1083.488,54.1744
+"Sinha, Anoop",Marble Dining Table,North East,Style and Spa,07-Oct-22,370.89,13,4821.57,964.314,48.2157
+"Arya, Gunjan",Wodden Coffee Table,North East,Home INDIA,12-Aug-21,226.24,14,3167.36,633.472,31.6736
+"Sinha, Anoop",Marble Dining Table,North East,Metro Emporium,10-Apr-22,33.87,6,203.22,40.644,4.0644
+"Arya, Gunjan",Marble Dining Table,North East,Metro Emporium,20-Dec-21,161.06,12,1932.72,386.544,19.3272
+"Sinha, Anoop",Glass Centre Table,North East,Home INDIA,07-Jul-22,94.27,11,1036.97,207.394,10.3697
+"Sinha, Anoop",Wodden Coffee Table,North East,Elite Designs,16-Dec-22,65.39,4,261.56,52.312,5.2312
+"Arya, Gunjan",Marble Dining Table,North East,Style and Spa,23-Nov-21,74.37,21,1561.77,312.354,15.6177
+"Sinha, Anoop",Wodden Coffee Table,North East,Elite Designs,17-Jan-22,234.16,16,3746.56,749.312,37.4656
+"Arya, Gunjan",Wodden Coffee Table,North East,Home INDIA,28-May-21,5.66,10,56.6,11.32,1.132
+"Arya, Gunjan",Bamboo Foam Couch,North East,Style and Spa,09-Jul-21,638.49,16,10215.84,2043.168,102.1584
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Designer Homes,18-Mar-21,397.44,12,4769.28,953.856,47.6928
+"Arya, Gunjan",Wodden Coffee Table,North East,Designer Homes,22-Nov-21,101.16,3,303.48,60.696,6.0696
+"Sinha, Anoop",Wodden Coffee Table,North East,Home INDIA,01-Nov-22,51.57,14,721.98,144.396,7.2198
+"Sinha, Anoop",Bamboo Foam Couch,North East,Style and Spa,20-Oct-22,585.47,12,7025.64,1405.128,70.2564
+"Sinha, Anoop",Wodden Coffee Table,North East,Metro Emporium,29-May-22,178.82,14,2503.48,500.696,25.0348
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Designer Homes,04-Sep-21,0.69,10,6.9,1.38,0.138
+"Arya, Gunjan",Bamboo Foam Couch,North East,Style and Spa,25-Nov-21,858.4,15,12876,2575.2,128.76
+"Arya, Gunjan",Wodden Coffee Table,North East,Metro Emporium,13-Apr-21,30.07,11,330.77,66.154,3.3077
+"Sinha, Anoop",Bamboo Foam Couch,North East,Style and Spa,24-Jun-22,550.04,21,11550.84,2310.168,115.5084
+"Arya, Gunjan",Marble Dining Table,North East,Designer Homes,05-Dec-21,204.12,14,2857.68,571.536,28.5768
+"Arya, Gunjan",Glass Centre Table,North East,Style and Spa,12-Nov-21,76.58,11,842.38,168.476,8.4238
+"Arya, Gunjan",Glass Centre Table,North East,Home INDIA,22-Nov-21,27.01,12,324.12,64.824,3.2412
+"Arya, Gunjan",Marble Dining Table,North East,Home INDIA,20-Nov-21,296.25,7,2073.75,414.75,41.475
+"Sinha, Anoop",Marble Dining Table,North East,Home INDIA,02-May-22,56.48,4,225.92,45.184,4.5184
+"Sinha, Anoop",Wodden Coffee Table,North East,Home INDIA,11-Nov-22,15.35,14,214.9,42.98,2.149
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Designer Homes,14-May-21,20.08,12,240.96,48.192,2.4096
+"Sinha, Anoop",Wodden Coffee Table,North East,Style and Spa,03-Jun-22,99.51,15,1492.65,298.53,14.9265
+"Arya, Gunjan",Wodden Coffee Table,North East,Home INDIA,20-Mar-21,14.58,13,189.54,37.908,1.8954
+"Sinha, Anoop",Bamboo Foam Couch,North East,Elite Designs,28-Jan-22,1279.32,2,2558.64,511.728,51.1728
+"Arya, Gunjan",Wodden Coffee Table,North East,Elite Designs,27-Jun-21,18.3,7,128.1,25.62,2.562
+"Sinha, Anoop",Bamboo Foam Couch,North East,Style and Spa,31-May-22,555.72,8,4445.76,889.152,88.9152
+"Sinha, Anoop",Glass Centre Table,North East,Designer Homes,18-Apr-21,122.41,13,1591.33,318.266,15.9133
+"Sinha, Anoop",Marble Dining Table,North East,Designer Homes,10-Jan-22,173.68,12,2084.16,416.832,20.8416
+"Arya, Gunjan",Glass Centre Table,North East,Metro Emporium,23-Nov-21,116.48,4,465.92,93.184,9.3184
+"Sinha, Anoop",Wodden Coffee Table,North East,Elite Designs,26-May-22,132.7,15,1990.5,398.1,19.905
+"Sinha, Anoop",Glass Centre Table,North East,Metro Emporium,23-Aug-21,63.62,10,636.2,127.24,12.724
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Designer Homes,30-Oct-21,337.45,5,1687.25,337.45,33.745
+"Sinha, Anoop",Wodden Coffee Table,North East,Home INDIA,04-Nov-21,139.85,2,279.7,55.94,5.594
+"Arya, Gunjan",Wodden Coffee Table,North East,Home INDIA,01-Jan-22,233.3,4,933.2,186.64,18.664
+"Sinha, Anoop",Glass Centre Table,North East,Metro Emporium,23-May-22,10.14,2,20.28,4.056,0.4056
+"Sinha, Anoop",Bamboo Foam Couch,North East,Style and Spa,15-Mar-22,40.74,8,325.92,65.184,6.5184
+"Arya, Gunjan",Bamboo Foam Couch,North East,Elite Designs,23-Jul-21,1153.72,2,2307.44,461.488,46.1488
+"Arya, Gunjan",Marble Dining Table,North East,Style and Spa,09-Apr-21,454.47,20,9089.4,1817.88,90.894
+"Sinha, Anoop",Bamboo Foam Couch,North East,Home INDIA,15-Nov-21,1274.05,3,3822.15,764.43,76.443
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Designer Homes,25-Jun-21,180.16,8,1441.28,288.256,28.8256
+"Sinha, Anoop",Wodden Coffee Table,North East,Designer Homes,27-Feb-22,193.99,8,1551.92,310.384,31.0384
+"Sinha, Anoop",Wodden Coffee Table,North East,Home INDIA,26-May-22,152.14,14,2129.96,425.992,21.2996
+"Sinha, Anoop",Glass Centre Table,North East,Style and Spa,25-Apr-21,65.65,11,722.15,144.43,7.2215
+"Arya, Gunjan",Bamboo Foam Couch,North East,Metro Emporium,21-Feb-21,65.4,15,981,196.2,9.81
+"Sinha, Anoop",Bamboo Foam Couch,North East,Metro Emporium,16-Aug-21,442.33,10,4423.3,884.66,88.466
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Designer Homes,25-Jul-22,73.88,6,443.28,88.656,8.8656
+"Dube, Akanksha",Bamboo Foam Couch,South West,Metro Emporium,11-Feb-22,941.33,12,11295.96,2259.192,112.9596
+"Dube, Akanksha",Marble Dining Table,South West,Designer Homes,13-Oct-22,545.95,1,545.95,109.19,10.919
+"Dube, Akanksha",Wodden Coffee Table,South West,Metro Emporium,21-May-22,270.51,6,1623.06,324.612,32.4612
+"Dube, Akanksha",Wodden Coffee Table,South West,Style and Spa,07-Oct-21,31.73,20,634.6,126.92,6.346
+"Dube, Akanksha",Bamboo Foam Couch,South West,Metro Emporium,26-Aug-22,660.51,11,7265.61,1453.122,72.6561
+"Dube, Akanksha",Bamboo Foam Couch,South West,Style and Spa,19-Nov-22,1142.63,21,23995.23,4799.046,239.9523
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Style and Spa,17-Dec-22,249.87,8,1998.96,399.792,39.9792
+"Dube, Akanksha",Marble Dining Table,South West,Elite Designs,02-Dec-22,216.22,10,2162.2,432.44,43.244
+"Dube, Akanksha",Bamboo Foam Couch,South West,Metro Emporium,03-Jun-22,185.39,11,2039.29,407.858,20.3929
+"Dube, Akanksha",Wodden Coffee Table,South West,Elite Designs,11-Feb-22,100.91,15,1513.65,302.73,15.1365
+"Dube, Akanksha",Wodden Coffee Table,South West,Elite Designs,22-Apr-22,98.94,1,98.94,19.788,1.9788
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Elite Designs,09-Sep-22,309.99,10,3099.9,619.98,61.998
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Home INDIA,12-Apr-22,276.65,4,1106.6,221.32,22.132
+"Dube, Akanksha",Wodden Coffee Table,South West,Style and Spa,12-Apr-22,245.5,8,1964,392.8,39.28
+"Dube, Akanksha",Wodden Coffee Table,South West,Designer Homes,08-Nov-22,178.66,10,1786.6,357.32,35.732
+"Dube, Akanksha",Marble Dining Table,South West,Metro Emporium,11-Dec-22,460.84,12,5530.08,1106.016,55.3008
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Metro Emporium,25-Feb-22,498.31,6,2989.86,597.972,59.7972
+"Dube, Akanksha",Glass Centre Table,South West,Elite Designs,12-Aug-22,86.17,14,1206.38,241.276,12.0638
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Elite Designs,14-Mar-22,282.66,14,3957.24,791.448,39.5724
+"Dube, Akanksha",Marble Dining Table,South West,Elite Designs,06-Dec-22,9.46,13,122.98,24.596,1.2298
+"Dube, Akanksha",Bamboo Foam Couch,South West,Style and Spa,24-Jan-22,416.96,16,6671.36,1334.272,66.7136
+"Dube, Akanksha",Glass Centre Table,South West,Style and Spa,19-Mar-22,127.62,20,2552.4,510.48,25.524
+"Dube, Akanksha",Glass Centre Table,South West,Metro Emporium,26-Jun-22,107.62,16,1721.92,344.384,17.2192
+"Dube, Akanksha",Marble Dining Table,South West,Elite Designs,31-Jan-21,210.8,4,843.2,168.64,16.864
+"Dube, Akanksha",Wodden Coffee Table,South West,Designer Homes,03-May-22,105.92,1,105.92,21.184,2.1184
+"Dube, Akanksha",Glass Centre Table,South West,Home INDIA,15-Jul-22,100.18,8,801.44,160.288,16.0288
+"Dube, Akanksha",Glass Centre Table,South West,Style and Spa,19-Nov-21,39.68,14,555.52,111.104,5.5552
+"Dube, Akanksha",Bamboo Foam Couch,South West,Elite Designs,10-Dec-22,880.36,5,4401.8,880.36,88.036
+"Dube, Akanksha",Glass Centre Table,South West,Home INDIA,15-Jul-22,37.35,13,485.55,97.11,4.8555
+"Dube, Akanksha",Bamboo Foam Couch,South West,Style and Spa,04-Dec-21,637.51,13,8287.63,1657.526,82.8763
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Style and Spa,17-Jan-21,106.72,15,1600.8,320.16,16.008
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Metro Emporium,27-May-22,188.13,5,940.65,188.13,18.813
+"Dube, Akanksha",Bamboo Foam Couch,South West,Metro Emporium,20-May-22,771.02,14,10794.28,2158.856,107.9428
+"Dube, Akanksha",Bamboo Foam Couch,South West,Elite Designs,05-Nov-22,117.09,14,1639.26,327.852,16.3926
+"Dube, Akanksha",Glass Centre Table,South West,Style and Spa,18-Jan-22,57.17,8,457.36,91.472,9.1472
+"Dube, Akanksha",Bamboo Foam Couch,South West,Metro Emporium,01-Oct-22,95.3,12,1143.6,228.72,11.436
+"Dube, Akanksha",Wodden Coffee Table,South West,Designer Homes,07-Apr-22,263.94,10,2639.4,527.88,52.788
+"Dube, Akanksha",Bamboo Foam Couch,South West,Style and Spa,17-May-22,230.09,15,3451.35,690.27,34.5135
+"Dube, Akanksha",Bamboo Foam Couch,South West,Style and Spa,25-Dec-21,761.49,22,16752.78,3350.556,167.5278
+"Dube, Akanksha",Glass Centre Table,South West,Style and Spa,31-Jul-22,13.32,8,106.56,21.312,2.1312
+"Dube, Akanksha",Bamboo Foam Couch,South West,Style and Spa,02-Jul-22,654.53,11,7199.83,1439.966,71.9983
+"Dube, Akanksha",Marble Dining Table,South West,Home INDIA,11-Mar-22,100.25,13,1303.25,260.65,13.0325
+"Dube, Akanksha",Wodden Coffee Table,South West,Designer Homes,30-Dec-21,169.92,3,509.76,101.952,10.1952
+"Dube, Akanksha",Wodden Coffee Table,South West,Designer Homes,16-Dec-22,35.73,5,178.65,35.73,3.573
+"Dube, Akanksha",Marble Dining Table,South West,Style and Spa,15-Oct-21,313.3,14,4386.2,877.24,43.862
+"Dube, Akanksha",Wodden Coffee Table,South West,Home INDIA,20-Nov-22,119.88,3,359.64,71.928,7.1928
+"Dube, Akanksha",Glass Centre Table,South West,Designer Homes,15-Sep-22,6.11,16,97.76,19.552,0.9776
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Elite Designs,07-Aug-22,406.34,11,4469.74,893.948,44.6974
+"Dube, Akanksha",Bamboo Foam Couch,South West,Elite Designs,04-Nov-22,17.47,7,122.29,24.458,2.4458
+"Dube, Akanksha",Glass Centre Table,South West,Style and Spa,23-Jan-21,91.83,22,2020.26,404.052,20.2026
+"Dube, Akanksha",Bamboo Foam Couch,South West,Home INDIA,27-May-22,758.25,2,1516.5,303.3,30.33
+"Saini, Gargi",Wodden Coffee Table,South West,Designer Homes,16-May-21,111.66,15,1674.9,334.98,16.749
+"Saini, Gargi",7 Seater Sofa & Recliner,South West,Designer Homes,28-Jun-21,57.26,4,229.04,45.808,4.5808
+"Saini, Gargi",Wodden Coffee Table,South West,Style and Spa,28-May-21,241.24,6,1447.44,289.488,28.9488
+"Saini, Gargi",Marble Dining Table,South West,Designer Homes,23-Nov-21,155.4,16,2486.4,497.28,24.864
+"Saini, Gargi",Wodden Coffee Table,South West,Elite Designs,18-Jun-21,261.91,6,1571.46,314.292,31.4292
+"Saini, Gargi",Wodden Coffee Table,South West,Style and Spa,12-Nov-21,210.98,12,2531.76,506.352,25.3176
+"Saini, Gargi",7 Seater Sofa & Recliner,South West,Style and Spa,13-Mar-21,147.38,19,2800.22,560.044,28.0022
+"Saini, Gargi",Bamboo Foam Couch,South West,Elite Designs,01-Nov-21,37.12,11,408.32,81.664,4.0832
+"Saini, Gargi",7 Seater Sofa & Recliner,South West,Metro Emporium,13-Mar-21,277.43,10,2774.3,554.86,55.486
+"Saini, Gargi",Marble Dining Table,South West,Designer Homes,14-Jan-22,141.09,1,141.09,28.218,2.8218
+"Saini, Gargi",Bamboo Foam Couch,South West,Designer Homes,04-Mar-22,281.7,14,3943.8,788.76,39.438
+"Saini, Gargi",Wodden Coffee Table,South West,Elite Designs,24-Dec-22,109.45,3,328.35,65.67,6.567
+"Saini, Gargi",Marble Dining Table,South West,Elite Designs,12-Aug-22,363.63,14,5090.82,1018.164,50.9082
+"Saini, Gargi",7 Seater Sofa & Recliner,South West,Home INDIA,13-Dec-22,146.56,15,2198.4,439.68,21.984
+"Saini, Gargi",Glass Centre Table,South West,Designer Homes,19-Nov-21,0.94,11,10.34,2.068,0.1034
+"Saini, Gargi",Marble Dining Table,South West,Elite Designs,25-Jul-21,133.43,15,2001.45,400.29,20.0145
+"Saini, Gargi",Marble Dining Table,South West,Elite Designs,23-Apr-21,213.69,2,427.38,85.476,8.5476
+"Saini, Gargi",Marble Dining Table,South West,Metro Emporium,30-Dec-21,310.1,6,1860.6,372.12,37.212
+"Saini, Gargi",Marble Dining Table,South West,Designer Homes,04-Nov-22,244.26,12,2931.12,586.224,29.3112
+"Saini, Gargi",Wodden Coffee Table,South West,Style and Spa,08-Jul-22,18.83,19,357.77,71.554,3.5777
+"Saini, Gargi",Bamboo Foam Couch,South West,Designer Homes,28-Jun-21,89.23,16,1427.68,285.536,14.2768
+"Saini, Gargi",Glass Centre Table,South West,Designer Homes,30-Dec-21,119.25,5,596.25,119.25,11.925
+"Saini, Gargi",Bamboo Foam Couch,South West,Home INDIA,28-Jan-22,204.68,12,2456.16,491.232,24.5616
+"Saini, Gargi",7 Seater Sofa & Recliner,South West,Home INDIA,13-Dec-21,545.79,1,545.79,109.158,10.9158
+"Saini, Gargi",7 Seater Sofa & Recliner,South West,Style and Spa,13-Dec-22,17.2,12,206.4,41.28,2.064
+"Saini, Gargi",Wodden Coffee Table,South West,Designer Homes,28-Aug-22,15.67,13,203.71,40.742,2.0371
+"Saini, Gargi",Marble Dining Table,South West,Style and Spa,23-Nov-21,95.56,15,1433.4,286.68,14.334
+"Saini, Gargi",Wodden Coffee Table,South West,Style and Spa,25-May-21,76.25,10,762.5,152.5,15.25
+"Saini, Gargi",Marble Dining Table,South West,Elite Designs,16-Apr-21,147.18,6,883.08,176.616,17.6616
+"Saini, Gargi",Marble Dining Table,South West,Designer Homes,09-Apr-21,538.81,2,1077.62,215.524,21.5524
+"Saini, Gargi",Wodden Coffee Table,South West,Style and Spa,10-Jun-21,252.26,20,5045.2,1009.04,50.452
+"Saini, Gargi",Bamboo Foam Couch,South West,Designer Homes,25-Mar-22,1124.83,11,12373.13,2474.626,123.7313
+"Saini, Gargi",Wodden Coffee Table,South West,Elite Designs,06-May-22,65.97,7,461.79,92.358,9.2358
+"Saini, Gargi",Wodden Coffee Table,South West,Designer Homes,23-Sep-22,258.22,6,1549.32,309.864,30.9864
+"Saini, Gargi",Bamboo Foam Couch,South West,Designer Homes,08-May-21,669.64,6,4017.84,803.568,80.3568
+"Saini, Gargi",Marble Dining Table,South West,Style and Spa,17-Dec-21,85.52,14,1197.28,239.456,11.9728
+"Saini, Gargi",Glass Centre Table,South West,Style and Spa,03-Oct-22,65.39,21,1373.19,274.638,13.7319
+"Saini, Gargi",Wodden Coffee Table,South West,Designer Homes,30-Sep-22,32.96,11,362.56,72.512,3.6256
+"Saini, Gargi",Glass Centre Table,South West,Designer Homes,12-Aug-22,0.91,1,0.91,0.182,0.0182
+"Saini, Gargi",Glass Centre Table,South West,Style and Spa,10-Jan-22,32.62,17,554.54,110.908,5.5454
+"Saini, Gargi",Marble Dining Table,South West,Elite Designs,12-Feb-21,220.12,4,880.48,176.096,17.6096
+"Saini, Gargi",Marble Dining Table,South West,Designer Homes,27-Mar-21,424.42,6,2546.52,509.304,50.9304
+"Saini, Gargi",Marble Dining Table,South West,Elite Designs,14-Sep-21,447.92,8,3583.36,716.672,71.6672
+"Saini, Gargi",Marble Dining Table,South West,Elite Designs,12-Feb-21,219.2,6,1315.2,263.04,26.304
+"Saini, Gargi",Glass Centre Table,South West,Designer Homes,01-Oct-22,118.9,12,1426.8,285.36,14.268
+"Saini, Gargi",Bamboo Foam Couch,South West,Home INDIA,30-Sep-22,678.87,16,10861.92,2172.384,108.6192
+"Saini, Gargi",Bamboo Foam Couch,South West,Elite Designs,19-Feb-21,451.4,10,4514,902.8,90.28
+"Saini, Gargi",Glass Centre Table,South West,Home INDIA,18-Apr-22,92.92,7,650.44,130.088,13.0088
+"Saini, Gargi",Marble Dining Table,South West,Style and Spa,29-Jan-22,324.72,19,6169.68,1233.936,61.6968
+"Saini, Gargi",Wodden Coffee Table,South West,Designer Homes,11-Feb-22,215.68,7,1509.76,301.952,30.1952
+"Saini, Gargi",Wodden Coffee Table,South West,Home INDIA,12-Mar-21,20.61,16,329.76,65.952,3.2976
+"Saini, Gargi",Glass Centre Table,South West,Home INDIA,09-Apr-21,103.62,14,1450.68,290.136,14.5068
+"Saini, Gargi",Glass Centre Table,South West,Metro Emporium,07-Oct-22,82.7,16,1323.2,264.64,13.232
+"Saini, Gargi",Marble Dining Table,South West,Elite Designs,30-Mar-21,8.95,16,143.2,28.64,1.432
+"Saini, Gargi",Marble Dining Table,South West,Style and Spa,03-Sep-21,419.32,12,5031.84,1006.368,50.3184
+"Saini, Gargi",Glass Centre Table,South West,Elite Designs,25-Oct-21,119.7,13,1556.1,311.22,15.561
+"Saini, Gargi",Wodden Coffee Table,South West,Metro Emporium,12-Nov-21,203.38,1,203.38,40.676,4.0676
+"Saini, Gargi",Bamboo Foam Couch,South West,Elite Designs,10-Sep-21,992.47,15,14887.05,2977.41,148.8705
+"Saini, Gargi",Glass Centre Table,South West,Elite Designs,16-Jul-22,9.09,16,145.44,29.088,1.4544
+"Saini, Gargi",7 Seater Sofa & Recliner,South West,Style and Spa,27-Mar-22,262.48,20,5249.6,1049.92,52.496
+"Saini, Gargi",Marble Dining Table,South West,Home INDIA,16-Dec-22,283.72,5,1418.6,283.72,28.372
+"Saini, Gargi",Wodden Coffee Table,South West,Designer Homes,16-Apr-21,87.45,13,1136.85,227.37,11.3685
+"Saini, Gargi",7 Seater Sofa & Recliner,South West,Style and Spa,17-May-21,161.06,6,966.36,193.272,19.3272
+"Saini, Gargi",Bamboo Foam Couch,South West,Metro Emporium,16-Feb-21,761.61,1,761.61,152.322,15.2322
+"Saini, Gargi",Bamboo Foam Couch,South West,Home INDIA,24-Nov-22,241.73,1,241.73,48.346,4.8346
+"Bains, Gaurav",Marble Dining Table,South West,Style and Spa,31-Jul-21,487.61,13,6338.93,1267.786,63.3893
+"Bains, Gaurav",Glass Centre Table,South West,Metro Emporium,08-Jul-22,120.16,15,1802.4,360.48,18.024
+"Bains, Gaurav",Marble Dining Table,South West,Elite Designs,23-Sep-22,1.79,8,14.32,2.864,0.2864
+"Bains, Gaurav",Marble Dining Table,South West,Elite Designs,09-Jan-22,270.87,12,3250.44,650.088,32.5044
+"Bains, Gaurav",Glass Centre Table,South West,Metro Emporium,03-Feb-22,75.3,8,602.4,120.48,12.048
+"Bains, Gaurav",Glass Centre Table,South West,Elite Designs,12-Nov-21,19.19,14,268.66,53.732,2.6866
+"Bains, Gaurav",Glass Centre Table,South West,Designer Homes,10-Dec-21,31.13,11,342.43,68.486,3.4243
+"Bains, Gaurav",Bamboo Foam Couch,South West,Home INDIA,19-Aug-22,738.62,14,10340.68,2068.136,103.4068
+"Bains, Gaurav",Glass Centre Table,South West,Elite Designs,28-May-21,71.91,1,71.91,14.382,1.4382
+"Bains, Gaurav",Marble Dining Table,South West,Home INDIA,09-Apr-21,184.83,12,2217.96,443.592,22.1796
+"Bains, Gaurav",Bamboo Foam Couch,South West,Home INDIA,19-Sep-21,418.67,14,5861.38,1172.276,58.6138
+"Bains, Gaurav",Marble Dining Table,South West,Home INDIA,05-Aug-22,122.98,11,1352.78,270.556,13.5278
+"Bains, Gaurav",Glass Centre Table,South West,Elite Designs,01-Jul-22,59.03,4,236.12,47.224,4.7224
+"Bains, Gaurav",Wodden Coffee Table,South West,Home INDIA,20-Aug-22,252.53,2,505.06,101.012,10.1012
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Elite Designs,25-Apr-21,326.39,8,2611.12,522.224,52.2224
+"Bains, Gaurav",Marble Dining Table,South West,Metro Emporium,10-May-22,214.41,8,1715.28,343.056,34.3056
+"Bains, Gaurav",Marble Dining Table,South West,Designer Homes,03-Mar-22,131.92,13,1714.96,342.992,17.1496
+"Bains, Gaurav",Wodden Coffee Table,South West,Elite Designs,07-Oct-22,91.97,1,91.97,18.394,1.8394
+"Bains, Gaurav",Bamboo Foam Couch,South West,Style and Spa,14-Mar-22,337.66,10,3376.6,675.32,67.532
+"Bains, Gaurav",Glass Centre Table,South West,Elite Designs,06-Dec-21,20.4,3,61.2,12.24,1.224
+"Bains, Gaurav",Wodden Coffee Table,South West,Elite Designs,23-Jul-22,91.36,2,182.72,36.544,3.6544
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Designer Homes,01-Jan-22,455.9,8,3647.2,729.44,72.944
+"Bains, Gaurav",Glass Centre Table,South West,Home INDIA,04-Apr-21,110.53,6,663.18,132.636,13.2636
+"Bains, Gaurav",Bamboo Foam Couch,South West,Designer Homes,21-Jun-21,1146.93,6,6881.58,1376.316,137.6316
+"Bains, Gaurav",Marble Dining Table,South West,Metro Emporium,19-Aug-21,38.4,11,422.4,84.48,4.224
+"Bains, Gaurav",Glass Centre Table,South West,Style and Spa,15-Feb-21,42.14,19,800.66,160.132,8.0066
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Designer Homes,30-Aug-22,13.5,7,94.5,18.9,1.89
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Designer Homes,22-Nov-21,323.56,16,5176.96,1035.392,51.7696
+"Bains, Gaurav",Wodden Coffee Table,South West,Style and Spa,07-Mar-22,139.73,8,1117.84,223.568,22.3568
+"Bains, Gaurav",Marble Dining Table,South West,Metro Emporium,27-May-21,506.7,3,1520.1,304.02,30.402
+"Bains, Gaurav",Glass Centre Table,South West,Home INDIA,30-Apr-22,26.06,6,156.36,31.272,3.1272
+"Bains, Gaurav",Glass Centre Table,South West,Home INDIA,30-Dec-21,14.3,1,14.3,2.86,0.286
+"Bains, Gaurav",Bamboo Foam Couch,South West,Home INDIA,15-Apr-21,458.38,4,1833.52,366.704,36.6704
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Elite Designs,06-Jun-21,508.98,10,5089.8,1017.96,101.796
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Designer Homes,05-Nov-21,56.02,6,336.12,67.224,6.7224
+"Bains, Gaurav",Bamboo Foam Couch,South West,Designer Homes,02-Aug-22,1041.84,5,5209.2,1041.84,104.184
+"Bains, Gaurav",Bamboo Foam Couch,South West,Metro Emporium,22-Aug-21,40.99,14,573.86,114.772,5.7386
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Metro Emporium,23-Feb-21,217.52,13,2827.76,565.552,28.2776
+"Bains, Gaurav",Glass Centre Table,South West,Style and Spa,01-Apr-22,82.57,10,825.7,165.14,16.514
+"Bains, Gaurav",Marble Dining Table,South West,Metro Emporium,21-Mar-21,107.58,1,107.58,21.516,2.1516
+"Bains, Gaurav",Bamboo Foam Couch,South West,Home INDIA,17-Sep-21,255.73,8,2045.84,409.168,40.9168
+"Bains, Gaurav",Marble Dining Table,South West,Designer Homes,30-Sep-21,490.59,1,490.59,98.118,9.8118
+"Bains, Gaurav",Marble Dining Table,South West,Elite Designs,19-Aug-21,17.2,3,51.6,10.32,1.032
+"Bains, Gaurav",Bamboo Foam Couch,South West,Style and Spa,26-Apr-21,8.25,17,140.25,28.05,1.4025
+"Bains, Gaurav",Glass Centre Table,South West,Elite Designs,22-Mar-22,91.79,1,91.79,18.358,1.8358
+"Bains, Gaurav",Marble Dining Table,South West,Designer Homes,23-Sep-22,348.28,6,2089.68,417.936,41.7936
+"Bains, Gaurav",Bamboo Foam Couch,South West,Metro Emporium,14-Jun-21,78.69,11,865.59,173.118,8.6559
+"Bains, Gaurav",Bamboo Foam Couch,South West,Style and Spa,06-Oct-22,748.59,15,11228.85,2245.77,112.2885
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Style and Spa,06-Feb-21,510.38,12,6124.56,1224.912,61.2456
+"Bains, Gaurav",Glass Centre Table,South West,Style and Spa,18-Jul-21,95.05,8,760.4,152.08,15.208
+"Bains, Gaurav",Glass Centre Table,South West,Home INDIA,25-Apr-21,37.13,7,259.91,51.982,5.1982
+"Bains, Gaurav",Bamboo Foam Couch,South West,Elite Designs,17-Jun-22,1100.99,1,1100.99,220.198,22.0198
+"Bains, Gaurav",Bamboo Foam Couch,South West,Style and Spa,13-Jun-22,411.53,12,4938.36,987.672,49.3836
+"Bains, Gaurav",Glass Centre Table,South West,Designer Homes,02-Jun-22,18.03,3,54.09,10.818,1.0818
+"Bains, Gaurav",Glass Centre Table,South West,Home INDIA,07-Aug-22,37.25,3,111.75,22.35,2.235
+"Bains, Gaurav",Bamboo Foam Couch,South West,Home INDIA,22-Apr-21,568.91,8,4551.28,910.256,91.0256
+"Bains, Gaurav",Glass Centre Table,South West,Style and Spa,23-Apr-21,63.24,12,758.88,151.776,7.5888
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Style and Spa,06-Feb-21,457.12,7,3199.84,639.968,63.9968
+"Bains, Gaurav",Wodden Coffee Table,South West,Metro Emporium,07-May-22,37.19,3,111.57,22.314,2.2314
+"Bains, Gaurav",Glass Centre Table,South West,Metro Emporium,06-May-22,65.71,12,788.52,157.704,7.8852
+"Bains, Gaurav",Glass Centre Table,South West,Designer Homes,23-Oct-21,93.95,13,1221.35,244.27,12.2135
+"Bains, Gaurav",Wodden Coffee Table,South West,Designer Homes,27-Aug-21,150.19,3,450.57,90.114,9.0114
+"Bains, Gaurav",Marble Dining Table,South West,Home INDIA,18-Mar-22,141.7,4,566.8,113.36,11.336
+"Bains, Gaurav",Marble Dining Table,South West,Designer Homes,12-Jun-22,247.24,10,2472.4,494.48,49.448
+"Bains, Gaurav",Bamboo Foam Couch,South West,Designer Homes,22-Feb-22,1250.93,14,17513.02,3502.604,175.1302
+"Bains, Gaurav",Marble Dining Table,South West,Style and Spa,29-Mar-21,513.04,22,11286.88,2257.376,112.8688
+"Bains, Gaurav",Marble Dining Table,South West,Metro Emporium,08-Apr-22,440.17,11,4841.87,968.374,48.4187
+"Bains, Gaurav",Glass Centre Table,South West,Designer Homes,24-Jul-22,47.85,2,95.7,19.14,1.914
+"Bains, Gaurav",Marble Dining Table,South West,Elite Designs,14-Sep-21,4.17,5,20.85,4.17,0.417
+"Bains, Gaurav",Marble Dining Table,South West,Elite Designs,23-May-21,77.07,3,231.21,46.242,4.6242
+"Bains, Gaurav",Bamboo Foam Couch,South West,Home INDIA,27-Jul-21,986.17,2,1972.34,394.468,39.4468
+"Bains, Gaurav",Marble Dining Table,South West,Designer Homes,27-Aug-21,349.55,16,5592.8,1118.56,55.928
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Metro Emporium,11-Feb-22,542.75,7,3799.25,759.85,75.985
+"Bains, Gaurav",Marble Dining Table,South West,Home INDIA,27-Jun-21,371.64,2,743.28,148.656,14.8656
+"Bains, Gaurav",Marble Dining Table,South West,Home INDIA,02-Nov-21,87.59,2,175.18,35.036,3.5036
+"Bains, Gaurav",Bamboo Foam Couch,South West,Designer Homes,11-Jan-22,750.4,7,5252.8,1050.56,105.056
+"Bains, Gaurav",Bamboo Foam Couch,South West,Elite Designs,12-Mar-21,1135.71,8,9085.68,1817.136,181.7136
+"Bains, Gaurav",Bamboo Foam Couch,South West,Home INDIA,18-Apr-22,527.42,14,7383.88,1476.776,73.8388
+"Roy, Ajeet",Wodden Coffee Table,South West,Metro Emporium,03-Feb-22,218.59,14,3060.26,612.052,30.6026
+"Roy, Ajeet",Glass Centre Table,South West,Elite Designs,07-Mar-21,40.42,13,525.46,105.092,5.2546
+"Roy, Ajeet",Wodden Coffee Table,South West,Style and Spa,24-Dec-21,0.73,21,15.33,3.066,0.1533
+"Roy, Ajeet",Wodden Coffee Table,South West,Elite Designs,31-Oct-22,59.44,2,118.88,23.776,2.3776
+"Roy, Ajeet",Bamboo Foam Couch,South West,Elite Designs,21-Sep-21,1146.24,11,12608.64,2521.728,126.0864
+"Roy, Ajeet",Wodden Coffee Table,South West,Elite Designs,07-Oct-22,90.22,1,90.22,18.044,1.8044
+"Roy, Ajeet",Marble Dining Table,South West,Style and Spa,31-May-22,537.26,22,11819.72,2363.944,118.1972
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Metro Emporium,04-Jul-21,325.64,15,4884.6,976.92,48.846
+"Roy, Ajeet",Marble Dining Table,South West,Style and Spa,21-Aug-21,75.14,6,450.84,90.168,9.0168
+"Roy, Ajeet",Bamboo Foam Couch,South West,Home INDIA,17-Sep-21,401.64,11,4418.04,883.608,44.1804
+"Roy, Ajeet",Marble Dining Table,South West,Elite Designs,19-Feb-22,295.51,7,2068.57,413.714,41.3714
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Designer Homes,11-Oct-21,392.14,13,5097.82,1019.564,50.9782
+"Roy, Ajeet",Glass Centre Table,South West,Elite Designs,23-Dec-22,30.65,7,214.55,42.91,4.291
+"Roy, Ajeet",Wodden Coffee Table,South West,Home INDIA,02-Oct-21,46.34,1,46.34,9.268,0.9268
+"Roy, Ajeet",Marble Dining Table,South West,Home INDIA,24-Nov-22,405.71,8,3245.68,649.136,64.9136
+"Roy, Ajeet",Bamboo Foam Couch,South West,Style and Spa,24-May-22,135.35,7,947.45,189.49,18.949
+"Roy, Ajeet",Wodden Coffee Table,South West,Designer Homes,15-May-22,232.98,2,465.96,93.192,9.3192
+"Roy, Ajeet",Bamboo Foam Couch,South West,Designer Homes,31-Jan-22,107.2,16,1715.2,343.04,17.152
+"Roy, Ajeet",Marble Dining Table,South West,Home INDIA,27-Feb-21,55.79,15,836.85,167.37,8.3685
+"Roy, Ajeet",Wodden Coffee Table,South West,Metro Emporium,16-May-21,182.62,16,2921.92,584.384,29.2192
+"Roy, Ajeet",Marble Dining Table,South West,Metro Emporium,18-Feb-22,309.45,2,618.9,123.78,12.378
+"Roy, Ajeet",Bamboo Foam Couch,South West,Style and Spa,03-Nov-22,43.56,8,348.48,69.696,6.9696
+"Roy, Ajeet",Glass Centre Table,South West,Designer Homes,11-Dec-21,41.47,7,290.29,58.058,5.8058
+"Roy, Ajeet",Wodden Coffee Table,South West,Metro Emporium,19-Aug-21,9.6,2,19.2,3.84,0.384
+"Roy, Ajeet",Marble Dining Table,South West,Designer Homes,19-Nov-21,541.33,3,1623.99,324.798,32.4798
+"Roy, Ajeet",Wodden Coffee Table,South West,Home INDIA,01-Jan-22,118.19,16,1891.04,378.208,18.9104
+"Roy, Ajeet",Marble Dining Table,South West,Style and Spa,16-Dec-22,403.01,12,4836.12,967.224,48.3612
+"Roy, Ajeet",Wodden Coffee Table,South West,Home INDIA,11-Jul-22,176.05,4,704.2,140.84,14.084
+"Roy, Ajeet",Wodden Coffee Table,South West,Elite Designs,27-Jun-22,108.14,14,1513.96,302.792,15.1396
+"Roy, Ajeet",Bamboo Foam Couch,South West,Elite Designs,25-Oct-21,840.49,2,1680.98,336.196,33.6196
+"Roy, Ajeet",Wodden Coffee Table,South West,Metro Emporium,23-Apr-22,244.05,13,3172.65,634.53,31.7265
+"Roy, Ajeet",Wodden Coffee Table,South West,Designer Homes,03-Sep-21,24.31,13,316.03,63.206,3.1603
+"Roy, Ajeet",Bamboo Foam Couch,South West,Elite Designs,30-Oct-21,842.35,10,8423.5,1684.7,168.47
+"Roy, Ajeet",Glass Centre Table,South West,Home INDIA,19-Mar-22,15.7,10,157,31.4,3.14
+"Roy, Ajeet",Marble Dining Table,South West,Metro Emporium,30-Apr-21,531.6,12,6379.2,1275.84,63.792
+"Roy, Ajeet",Glass Centre Table,South West,Designer Homes,27-May-22,60.98,2,121.96,24.392,2.4392
+"Roy, Ajeet",Bamboo Foam Couch,South West,Style and Spa,02-Apr-22,1029.16,13,13379.08,2675.816,133.7908
+"Roy, Ajeet",Marble Dining Table,South West,Home INDIA,24-Jan-21,525.95,8,4207.6,841.52,84.152
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Style and Spa,22-Feb-21,215.56,20,4311.2,862.24,43.112
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Home INDIA,09-Feb-21,179.22,1,179.22,35.844,3.5844
+"Roy, Ajeet",Glass Centre Table,South West,Metro Emporium,13-Aug-21,97.46,3,292.38,58.476,5.8476
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Home INDIA,05-Jul-21,264.31,14,3700.34,740.068,37.0034
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Style and Spa,04-Feb-22,24.44,14,342.16,68.432,3.4216
+"Roy, Ajeet",Bamboo Foam Couch,South West,Elite Designs,10-Jan-21,1122.62,14,15716.68,3143.336,157.1668
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Style and Spa,11-Feb-22,71.17,12,854.04,170.808,8.5404
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Home INDIA,19-Nov-21,356.5,11,3921.5,784.3,39.215
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Style and Spa,21-May-21,493.08,20,9861.6,1972.32,98.616
+"Roy, Ajeet",Marble Dining Table,South West,Designer Homes,09-Mar-21,392.74,1,392.74,78.548,7.8548
+"Roy, Ajeet",Glass Centre Table,South West,Home INDIA,01-Jul-22,114.49,8,915.92,183.184,18.3184
+"Roy, Ajeet",Marble Dining Table,South West,Home INDIA,28-Jul-22,73.61,15,1104.15,220.83,11.0415
+"Roy, Ajeet",Bamboo Foam Couch,South West,Designer Homes,24-Sep-21,186.99,4,747.96,149.592,14.9592
+"Roy, Ajeet",Bamboo Foam Couch,South West,Metro Emporium,11-Feb-21,1112.85,12,13354.2,2670.84,133.542
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Home INDIA,09-Feb-21,323.67,3,971.01,194.202,19.4202
+"Roy, Ajeet",Glass Centre Table,South West,Style and Spa,14-Sep-21,104.96,14,1469.44,293.888,14.6944
+"Roy, Ajeet",Bamboo Foam Couch,South West,Style and Spa,23-Feb-21,1133,19,21527,4305.4,215.27
+"Roy, Ajeet",Wodden Coffee Table,South West,Style and Spa,30-Jul-21,102.64,13,1334.32,266.864,13.3432
+"Roy, Ajeet",Wodden Coffee Table,South West,Home INDIA,17-Jan-21,14.3,11,157.3,31.46,1.573
+"Roy, Ajeet",Wodden Coffee Table,South West,Style and Spa,13-Aug-22,264.64,8,2117.12,423.424,42.3424
+"Roy, Ajeet",Marble Dining Table,South West,Style and Spa,03-Oct-21,87.02,6,522.12,104.424,10.4424
+"Roy, Ajeet",Bamboo Foam Couch,South West,Home INDIA,01-Feb-21,18.13,7,126.91,25.382,2.5382
+"Roy, Ajeet",Glass Centre Table,South West,Elite Designs,14-Oct-21,82.83,1,82.83,16.566,1.6566
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Home INDIA,20-Jul-21,315.75,14,4420.5,884.1,44.205
+"Roy, Ajeet",Marble Dining Table,South West,Style and Spa,12-Apr-22,345.06,16,5520.96,1104.192,55.2096
+"Roy, Ajeet",Glass Centre Table,South West,Home INDIA,20-Sep-21,11.27,15,169.05,33.81,1.6905
+"Roy, Ajeet",Glass Centre Table,South West,Elite Designs,08-Jul-22,92.93,3,278.79,55.758,5.5758
+"Roy, Ajeet",Marble Dining Table,South West,Designer Homes,30-May-22,404.06,10,4040.6,808.12,80.812
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Home INDIA,30-Sep-22,79.68,3,239.04,47.808,4.7808
+"Roy, Ajeet",Bamboo Foam Couch,South West,Elite Designs,28-Feb-21,1217.93,10,12179.3,2435.86,243.586
+"Roy, Ajeet",Glass Centre Table,South West,Metro Emporium,19-Nov-22,22.68,13,294.84,58.968,2.9484
+"Roy, Ajeet",Glass Centre Table,South West,Elite Designs,13-Dec-21,72.52,6,435.12,87.024,8.7024
+"Roy, Ajeet",Bamboo Foam Couch,South West,Metro Emporium,11-Feb-21,945.7,4,3782.8,756.56,75.656
+"Roy, Ajeet",Bamboo Foam Couch,South West,Style and Spa,08-Jan-22,818.94,20,16378.8,3275.76,163.788
+"Roy, Ajeet",Marble Dining Table,South West,Metro Emporium,03-Jul-22,261.74,14,3664.36,732.872,36.6436
+"Roy, Ajeet",Marble Dining Table,South West,Elite Designs,26-Oct-21,46.43,4,185.72,37.144,3.7144
+"Roy, Ajeet",Bamboo Foam Couch,South West,Metro Emporium,13-Mar-21,585.79,8,4686.32,937.264,93.7264
+"Roy, Ajeet",Bamboo Foam Couch,South West,Designer Homes,29-Apr-21,248.05,8,1984.4,396.88,39.688
+"Roy, Ajeet",Bamboo Foam Couch,South West,Elite Designs,31-May-21,376.27,5,1881.35,376.27,37.627
+"Roy, Ajeet",Wodden Coffee Table,South West,Designer Homes,01-May-21,175.69,13,2283.97,456.794,22.8397
+"Roy, Ajeet",Glass Centre Table,South West,Elite Designs,05-Nov-22,29.85,1,29.85,5.97,0.597
+"Roy, Ajeet",Bamboo Foam Couch,South West,Designer Homes,16-Apr-22,975.75,10,9757.5,1951.5,195.15
+"Roy, Ajeet",Glass Centre Table,South West,Designer Homes,04-Dec-22,117.09,5,585.45,117.09,11.709
+"Roy, Ajeet",Bamboo Foam Couch,South West,Metro Emporium,02-Dec-22,348.22,16,5571.52,1114.304,55.7152
+"Roy, Ajeet",Marble Dining Table,South West,Designer Homes,24-Dec-22,540.86,16,8653.76,1730.752,86.5376
+"Roy, Ajeet",Wodden Coffee Table,South West,Metro Emporium,27-Jun-22,168.34,3,505.02,101.004,10.1004
+"Roy, Ajeet",Marble Dining Table,South West,Elite Designs,27-Dec-21,36.79,3,110.37,22.074,2.2074
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Metro Emporium,18-Oct-22,507.55,8,4060.4,812.08,81.208
+"Roy, Ajeet",Bamboo Foam Couch,South West,Home INDIA,26-Mar-21,18.96,8,151.68,30.336,3.0336
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Designer Homes,28-May-21,164.73,1,164.73,32.946,3.2946
+"Roy, Ajeet",Wodden Coffee Table,South West,Metro Emporium,21-Aug-21,228.7,1,228.7,45.74,4.574
+"Roy, Ajeet",Glass Centre Table,South West,Home INDIA,26-Jun-21,82.14,12,985.68,197.136,9.8568
+"Roy, Ajeet",Bamboo Foam Couch,South West,Elite Designs,05-Sep-22,62.6,14,876.4,175.28,8.764
+"Roy, Ajeet",Bamboo Foam Couch,South West,Home INDIA,07-Aug-21,267.5,5,1337.5,267.5,26.75
+"Roy, Ajeet",Glass Centre Table,South West,Metro Emporium,07-Jun-21,10.64,6,63.84,12.768,1.2768
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Metro Emporium,13-May-22,487.92,13,6342.96,1268.592,63.4296
+"Roy, Ajeet",Bamboo Foam Couch,South West,Designer Homes,25-Jun-22,346.29,8,2770.32,554.064,55.4064
+"Roy, Ajeet",Bamboo Foam Couch,South West,Style and Spa,19-Feb-21,660.28,15,9904.2,1980.84,99.042
+"Malik, Dev",Wodden Coffee Table,North West,Home INDIA,25-Oct-22,93.49,1,93.49,18.698,1.8698
+"Malik, Dev",Wodden Coffee Table,North West,Elite Designs,11-Oct-22,62,11,682,136.4,6.82
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Elite Designs,13-Oct-22,25.32,4,101.28,20.256,2.0256
+"Malik, Dev",Marble Dining Table,North West,Designer Homes,18-Feb-22,307.64,16,4922.24,984.448,49.2224
+"Malik, Dev",Wodden Coffee Table,North West,Metro Emporium,31-Mar-22,150.59,15,2258.85,451.77,22.5885
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Style and Spa,22-Dec-22,130.84,13,1700.92,340.184,17.0092
+"Malik, Dev",Bamboo Foam Couch,North West,Metro Emporium,05-Jul-21,1079.19,2,2158.38,431.676,43.1676
+"Malik, Dev",Marble Dining Table,North West,Style and Spa,28-Jan-21,501.98,7,3513.86,702.772,70.2772
+"Malik, Dev",Bamboo Foam Couch,North West,Style and Spa,16-Apr-21,897.48,7,6282.36,1256.472,125.6472
+"Malik, Dev",Wodden Coffee Table,North West,Metro Emporium,27-Jan-22,86.84,12,1042.08,208.416,10.4208
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Designer Homes,05-Feb-22,322.49,10,3224.9,644.98,64.498
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Style and Spa,28-Nov-21,226.01,15,3390.15,678.03,33.9015
+"Malik, Dev",Wodden Coffee Table,North West,Home INDIA,08-Nov-21,125.08,12,1500.96,300.192,15.0096
+"Malik, Dev",Glass Centre Table,North West,Home INDIA,03-Sep-21,18.96,2,37.92,7.584,0.7584
+"Malik, Dev",Bamboo Foam Couch,North West,Style and Spa,25-Jun-22,263.51,17,4479.67,895.934,44.7967
+"Malik, Dev",Glass Centre Table,North West,Elite Designs,05-Jul-21,74.14,6,444.84,88.968,8.8968
+"Malik, Dev",Marble Dining Table,North West,Elite Designs,29-Aug-22,273.03,5,1365.15,273.03,27.303
+"Malik, Dev",Marble Dining Table,North West,Style and Spa,27-Dec-21,452.47,17,7691.99,1538.398,76.9199
+"Malik, Dev",Wodden Coffee Table,North West,Style and Spa,24-Jul-21,19.36,7,135.52,27.104,2.7104
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Home INDIA,19-Nov-21,61.74,10,617.4,123.48,12.348
+"Malik, Dev",Wodden Coffee Table,North West,Elite Designs,26-Nov-21,162.86,2,325.72,65.144,6.5144
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Style and Spa,05-Feb-22,537.89,13,6992.57,1398.514,69.9257
+"Malik, Dev",Glass Centre Table,North West,Designer Homes,18-Mar-21,95.47,1,95.47,19.094,1.9094
+"Malik, Dev",Bamboo Foam Couch,North West,Elite Designs,13-May-21,788.55,10,7885.5,1577.1,157.71
+"Malik, Dev",Wodden Coffee Table,North West,Designer Homes,11-Dec-21,134.51,5,672.55,134.51,13.451
+"Malik, Dev",Marble Dining Table,North West,Style and Spa,23-May-22,427.03,7,2989.21,597.842,59.7842
+"Malik, Dev",Bamboo Foam Couch,North West,Metro Emporium,12-Nov-22,359.62,1,359.62,71.924,7.1924
+"Malik, Dev",Marble Dining Table,North West,Home INDIA,05-Nov-22,154.02,8,1232.16,246.432,24.6432
+"Malik, Dev",Bamboo Foam Couch,North West,Style and Spa,21-Dec-21,456.19,12,5474.28,1094.856,54.7428
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Metro Emporium,22-Aug-22,396.46,1,396.46,79.292,7.9292
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Metro Emporium,13-Mar-21,455.61,2,911.22,182.244,18.2244
+"Malik, Dev",Marble Dining Table,North West,Elite Designs,22-Feb-22,199.11,6,1194.66,238.932,23.8932
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Elite Designs,28-Jan-21,52.19,14,730.66,146.132,7.3066
+"Malik, Dev",Marble Dining Table,North West,Designer Homes,19-Aug-22,517.09,1,517.09,103.418,10.3418
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Style and Spa,17-May-22,467.41,12,5608.92,1121.784,56.0892
+"Malik, Dev",Glass Centre Table,North West,Designer Homes,15-Jul-22,48.85,3,146.55,29.31,2.931
+"Malik, Dev",Wodden Coffee Table,North West,Style and Spa,12-Jul-22,146.31,14,2048.34,409.668,20.4834
+"Malik, Dev",Marble Dining Table,North West,Elite Designs,07-May-21,305.91,2,611.82,122.364,12.2364
+"Malik, Dev",Glass Centre Table,North West,Designer Homes,13-Jun-21,121.75,10,1217.5,243.5,24.35
+"Malik, Dev",Wodden Coffee Table,North West,Metro Emporium,16-Jul-22,133.28,4,533.12,106.624,10.6624
+"Malik, Dev",Wodden Coffee Table,North West,Metro Emporium,09-Sep-22,266.96,6,1601.76,320.352,32.0352
+"Malik, Dev",Marble Dining Table,North West,Home INDIA,09-Aug-22,8.23,5,41.15,8.23,0.823
+"Malik, Dev",Glass Centre Table,North West,Home INDIA,04-Sep-22,50.21,7,351.47,70.294,7.0294
+"Malik, Dev",Glass Centre Table,North West,Home INDIA,15-May-21,108.54,3,325.62,65.124,6.5124
+"Malik, Dev",Wodden Coffee Table,North West,Home INDIA,20-May-21,98.25,12,1179,235.8,11.79
+"Malik, Dev",Glass Centre Table,North West,Elite Designs,25-Dec-22,60.32,12,723.84,144.768,7.2384
+"Malik, Dev",Marble Dining Table,North West,Home INDIA,12-Nov-21,330.38,2,660.76,132.152,13.2152
+"Malik, Dev",Glass Centre Table,North West,Elite Designs,07-Jan-21,79.99,7,559.93,111.986,11.1986
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Style and Spa,15-Jan-21,250.66,7,1754.62,350.924,35.0924
+"Malik, Dev",Bamboo Foam Couch,North West,Elite Designs,10-Jan-22,475.4,8,3803.2,760.64,76.064
+"Malik, Dev",Marble Dining Table,North West,Elite Designs,29-Sep-22,347.61,14,4866.54,973.308,48.6654
+"Malik, Dev",Wodden Coffee Table,North West,Metro Emporium,29-Oct-21,35.68,13,463.84,92.768,4.6384
+"Malik, Dev",Glass Centre Table,North West,Elite Designs,10-May-21,36.88,5,184.4,36.88,3.688
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Home INDIA,18-Apr-22,475.15,13,6176.95,1235.39,61.7695
+"Malik, Dev",Wodden Coffee Table,North West,Designer Homes,11-Jan-22,60.93,12,731.16,146.232,7.3116
+"Malik, Dev",Wodden Coffee Table,North West,Elite Designs,21-Oct-21,138.85,7,971.95,194.39,19.439
+"Malik, Dev",Glass Centre Table,North West,Home INDIA,29-Aug-21,65.98,5,329.9,65.98,6.598
+"Malik, Dev",Glass Centre Table,North West,Metro Emporium,26-Sep-21,115.73,3,347.19,69.438,6.9438
+"Malik, Dev",Marble Dining Table,North West,Metro Emporium,05-Apr-21,229.17,3,687.51,137.502,13.7502
+"Malik, Dev",Wodden Coffee Table,North West,Designer Homes,05-Aug-22,15.85,5,79.25,15.85,1.585
+"Malik, Dev",Bamboo Foam Couch,North West,Designer Homes,31-May-22,1157.05,13,15041.65,3008.33,150.4165
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Home INDIA,31-Jan-21,389.71,8,3117.68,623.536,62.3536
+"Malik, Dev",Bamboo Foam Couch,North West,Style and Spa,16-Jan-22,399.14,6,2394.84,478.968,47.8968
+"Malik, Dev",Wodden Coffee Table,North West,Metro Emporium,28-Aug-22,64.65,14,905.1,181.02,9.051
+"Malik, Dev",Marble Dining Table,North West,Elite Designs,15-Nov-22,147.34,2,294.68,58.936,5.8936
+"Malik, Dev",Marble Dining Table,North West,Home INDIA,03-Sep-22,436.65,11,4803.15,960.63,48.0315
+"Malik, Dev",Bamboo Foam Couch,North West,Home INDIA,11-Jul-22,1074.33,7,7520.31,1504.062,150.4062
+"Malik, Dev",Glass Centre Table,North West,Home INDIA,02-Feb-21,39.32,5,196.6,39.32,3.932
+"Malik, Dev",Wodden Coffee Table,North West,Elite Designs,25-Jun-21,19.08,5,95.4,19.08,1.908
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Metro Emporium,19-May-22,20.11,8,160.88,32.176,3.2176
+"Malik, Dev",Marble Dining Table,North West,Home INDIA,02-Sep-22,401.73,5,2008.65,401.73,40.173
+"Malik, Dev",Glass Centre Table,North West,Metro Emporium,04-Apr-22,47.67,2,95.34,19.068,1.9068
+"Malik, Dev",Bamboo Foam Couch,North West,Style and Spa,30-Apr-22,1068.16,12,12817.92,2563.584,128.1792
+"Malik, Dev",Glass Centre Table,North West,Style and Spa,08-Nov-21,124.05,10,1240.5,248.1,24.81
+"Malik, Dev",Bamboo Foam Couch,North West,Metro Emporium,20-Nov-21,421.6,5,2108,421.6,42.16
+"Malik, Dev",Glass Centre Table,North West,Elite Designs,14-Jan-22,127.96,13,1663.48,332.696,16.6348
+"Malik, Dev",Marble Dining Table,North West,Style and Spa,01-Jul-22,12.87,10,128.7,25.74,2.574
+"Malik, Dev",Glass Centre Table,North West,Designer Homes,17-Jun-22,124.27,12,1491.24,298.248,14.9124
+"Malik, Dev",Wodden Coffee Table,North West,Designer Homes,09-Oct-22,101.49,13,1319.37,263.874,13.1937
+"Malik, Dev",Marble Dining Table,North West,Metro Emporium,24-Jan-22,471.95,12,5663.4,1132.68,56.634
+"Malik, Dev",Bamboo Foam Couch,North West,Metro Emporium,01-Feb-21,386.61,5,1933.05,386.61,38.661
+"Malik, Dev",Wodden Coffee Table,North West,Metro Emporium,20-Feb-21,134.4,8,1075.2,215.04,21.504
+"Malik, Dev",Glass Centre Table,North West,Designer Homes,03-Sep-21,13.94,3,41.82,8.364,0.8364
+"Malik, Dev",Wodden Coffee Table,North West,Designer Homes,24-Apr-21,192.2,13,2498.6,499.72,24.986
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Designer Homes,31-May-22,508.06,10,5080.6,1016.12,101.612
+"Malik, Dev",Glass Centre Table,North West,Designer Homes,26-Sep-22,14.85,7,103.95,20.79,2.079
+"Malik, Dev",Bamboo Foam Couch,North West,Style and Spa,30-Sep-21,930.06,6,5580.36,1116.072,111.6072
+"Malik, Dev",Marble Dining Table,North West,Home INDIA,13-Apr-21,292.35,15,4385.25,877.05,43.8525
+"Malik, Dev",Marble Dining Table,North West,Designer Homes,18-Nov-22,546.41,3,1639.23,327.846,32.7846
+"Malik, Dev",Wodden Coffee Table,North West,Style and Spa,06-Sep-21,107.6,10,1076,215.2,21.52
+"Malik, Dev",Marble Dining Table,North West,Home INDIA,23-Aug-22,412.47,1,412.47,82.494,8.2494
+"Malik, Dev",Bamboo Foam Couch,North West,Elite Designs,04-Jul-21,504.45,12,6053.4,1210.68,60.534
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Designer Homes,01-Oct-21,287.84,13,3741.92,748.384,37.4192
+"Malik, Dev",Wodden Coffee Table,North West,Style and Spa,05-Aug-21,48.4,22,1064.8,212.96,10.648
+"Malik, Dev",Glass Centre Table,North West,Elite Designs,15-Sep-22,20.86,7,146.02,29.204,2.9204
+"Malik, Dev",Marble Dining Table,North West,Style and Spa,03-Dec-21,360.73,14,5050.22,1010.044,50.5022
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Home INDIA,04-Aug-22,270.03,8,2160.24,432.048,43.2048
+"Malik, Dev",Marble Dining Table,North West,Metro Emporium,27-Mar-22,409.62,4,1638.48,327.696,32.7696
+"Malik, Dev",Marble Dining Table,North West,Designer Homes,09-Apr-21,219.04,6,1314.24,262.848,26.2848
+"Malik, Dev",Marble Dining Table,North West,Home INDIA,30-Jun-22,4.83,16,77.28,15.456,0.7728
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Metro Emporium,02-Apr-22,311.28,3,933.84,186.768,18.6768
+"Arora, Megha",Bamboo Foam Couch,North West,Style and Spa,03-May-22,942.19,22,20728.18,4145.636,207.2818
+"Arora, Megha",Marble Dining Table,North West,Style and Spa,25-Oct-22,434.43,20,8688.6,1737.72,86.886
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Metro Emporium,19-Jun-22,307.04,1,307.04,61.408,6.1408
+"Arora, Megha",Glass Centre Table,North West,Style and Spa,10-May-22,59.71,8,477.68,95.536,9.5536
+"Arora, Megha",Wodden Coffee Table,North West,Metro Emporium,13-Dec-21,133.54,1,133.54,26.708,2.6708
+"Arora, Megha",Bamboo Foam Couch,North West,Designer Homes,19-Dec-21,578.47,15,8677.05,1735.41,86.7705
+"Arora, Megha",Glass Centre Table,North West,Metro Emporium,28-Oct-22,97.02,8,776.16,155.232,15.5232
+"Arora, Megha",Glass Centre Table,North West,Designer Homes,01-Aug-22,63.45,10,634.5,126.9,12.69
+"Arora, Megha",Glass Centre Table,North West,Home INDIA,06-Feb-22,83.24,3,249.72,49.944,4.9944
+"Arora, Megha",Bamboo Foam Couch,North West,Home INDIA,01-Oct-22,1231.01,4,4924.04,984.808,98.4808
+"Arora, Megha",Wodden Coffee Table,North West,Designer Homes,20-Aug-21,30.5,8,244,48.8,4.88
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Metro Emporium,17-Aug-21,21.85,16,349.6,69.92,3.496
+"Arora, Megha",Bamboo Foam Couch,North West,Designer Homes,25-Nov-21,992.31,2,1984.62,396.924,39.6924
+"Arora, Megha",Wodden Coffee Table,North West,Metro Emporium,30-Nov-21,174.4,15,2616,523.2,26.16
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Style and Spa,29-Nov-21,355.87,19,6761.53,1352.306,67.6153
+"Arora, Megha",Marble Dining Table,North West,Designer Homes,09-Aug-21,121.45,2,242.9,48.58,4.858
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Home INDIA,17-Jul-22,35.83,2,71.66,14.332,1.4332
+"Arora, Megha",Glass Centre Table,North West,Designer Homes,25-Jan-22,119.5,11,1314.5,262.9,13.145
+"Arora, Megha",Wodden Coffee Table,North West,Elite Designs,23-Jul-22,31.36,2,62.72,12.544,1.2544
+"Arora, Megha",Glass Centre Table,North West,Metro Emporium,18-Dec-21,36.48,4,145.92,29.184,2.9184
+"Arora, Megha",Glass Centre Table,North West,Home INDIA,30-Jan-22,30.82,2,61.64,12.328,1.2328
+"Arora, Megha",Glass Centre Table,North West,Designer Homes,28-Nov-21,118.46,5,592.3,118.46,11.846
+"Arora, Megha",Wodden Coffee Table,North West,Home INDIA,04-Apr-22,80.55,16,1288.8,257.76,12.888
+"Arora, Megha",Bamboo Foam Couch,North West,Home INDIA,22-Jan-22,519.82,11,5718.02,1143.604,57.1802
+"Arora, Megha",Marble Dining Table,North West,Metro Emporium,23-Sep-22,539.05,6,3234.3,646.86,64.686
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Home INDIA,20-May-22,37.93,8,303.44,60.688,6.0688
+"Arora, Megha",Glass Centre Table,North West,Metro Emporium,03-Feb-22,25.03,1,25.03,5.006,0.5006
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Home INDIA,04-Jun-21,78.22,2,156.44,31.288,3.1288
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Elite Designs,05-May-22,60.87,11,669.57,133.914,6.6957
+"Arora, Megha",Bamboo Foam Couch,North West,Home INDIA,25-Apr-22,392.67,15,5890.05,1178.01,58.9005
+"Arora, Megha",Marble Dining Table,North West,Elite Designs,27-Sep-21,379.93,1,379.93,75.986,7.5986
+"Arora, Megha",Glass Centre Table,North West,Home INDIA,19-Aug-22,72.87,7,510.09,102.018,10.2018
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Elite Designs,21-Jun-22,286.25,7,2003.75,400.75,40.075
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Elite Designs,15-Jun-21,40.4,6,242.4,48.48,4.848
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Home INDIA,22-Nov-22,279.01,7,1953.07,390.614,39.0614
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Elite Designs,18-Jun-21,94.39,11,1038.29,207.658,10.3829
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Designer Homes,13-Apr-21,423.29,8,3386.32,677.264,67.7264
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Style and Spa,10-Jul-22,249.91,10,2499.1,499.82,49.982
+"Arora, Megha",Wodden Coffee Table,North West,Metro Emporium,12-May-22,248.76,15,3731.4,746.28,37.314
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Designer Homes,06-May-22,525.81,10,5258.1,1051.62,105.162
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Metro Emporium,02-Jan-22,480.6,4,1922.4,384.48,38.448
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Designer Homes,28-Oct-21,324.58,5,1622.9,324.58,32.458
+"Arora, Megha",Marble Dining Table,North West,Designer Homes,14-Jan-22,362.4,16,5798.4,1159.68,57.984
+"Arora, Megha",Marble Dining Table,North West,Designer Homes,18-Mar-22,386.29,8,3090.32,618.064,61.8064
+"Arora, Megha",Wodden Coffee Table,North West,Elite Designs,03-Dec-21,226.71,10,2267.1,453.42,45.342
+"Arora, Megha",Marble Dining Table,North West,Home INDIA,02-Oct-22,69.83,10,698.3,139.66,13.966
+"Arora, Megha",Marble Dining Table,North West,Metro Emporium,24-Apr-22,179.13,2,358.26,71.652,7.1652
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Elite Designs,29-Jul-22,10.67,10,106.7,21.34,2.134
+"Arora, Megha",Wodden Coffee Table,North West,Elite Designs,09-Sep-22,164.9,1,164.9,32.98,3.298
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Home INDIA,10-Jul-22,163.19,6,979.14,195.828,19.5828
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Elite Designs,16-Jul-21,100.12,6,600.72,120.144,12.0144
+"Arora, Megha",Marble Dining Table,North West,Metro Emporium,20-Sep-21,98.19,16,1571.04,314.208,15.7104
+"Arora, Megha",Marble Dining Table,North West,Elite Designs,12-Apr-22,44.72,7,313.04,62.608,6.2608
+"Arora, Megha",Marble Dining Table,North West,Home INDIA,13-Jun-22,93.39,12,1120.68,224.136,11.2068
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Style and Spa,08-Aug-22,61.24,17,1041.08,208.216,10.4108
+"Arora, Megha",Marble Dining Table,North West,Elite Designs,03-Apr-22,489.66,6,2937.96,587.592,58.7592
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Designer Homes,02-Apr-21,292.8,10,2928,585.6,58.56
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Elite Designs,06-Jun-22,536.2,2,1072.4,214.48,21.448
+"Arora, Megha",Bamboo Foam Couch,North West,Home INDIA,10-Sep-21,26.95,1,26.95,5.39,0.539
+"Arora, Megha",Marble Dining Table,North West,Designer Homes,20-May-21,88.34,16,1413.44,282.688,14.1344
+"Arora, Megha",Marble Dining Table,North West,Home INDIA,18-Jul-22,245.74,5,1228.7,245.74,24.574
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Designer Homes,25-Feb-22,450.86,3,1352.58,270.516,27.0516
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Metro Emporium,09-Jan-22,297.72,7,2084.04,416.808,41.6808
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Style and Spa,05-Aug-21,516.27,16,8260.32,1652.064,82.6032
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Designer Homes,01-Apr-22,123.58,11,1359.38,271.876,13.5938
+"Arora, Megha",Glass Centre Table,North West,Metro Emporium,11-Mar-22,3.39,2,6.78,1.356,0.1356
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Metro Emporium,11-Mar-22,473.5,2,947,189.4,18.94
+"Arora, Megha",Marble Dining Table,North West,Metro Emporium,08-Oct-21,328.44,1,328.44,65.688,6.5688
+"Arora, Megha",Bamboo Foam Couch,North West,Home INDIA,28-Jul-22,357.84,11,3936.24,787.248,39.3624
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Home INDIA,05-May-22,52.42,1,52.42,10.484,1.0484
+"Arora, Megha",Bamboo Foam Couch,North West,Metro Emporium,23-Jul-21,1130.32,16,18085.12,3617.024,180.8512
+"Arora, Megha",Glass Centre Table,North West,Elite Designs,22-Feb-22,65.87,3,197.61,39.522,3.9522
+"Arora, Megha",Wodden Coffee Table,North West,Style and Spa,23-Sep-22,108.78,22,2393.16,478.632,23.9316
+"Arora, Megha",Wodden Coffee Table,North West,Style and Spa,08-Oct-22,90.99,6,545.94,109.188,10.9188
+"Arora, Megha",Wodden Coffee Table,North West,Designer Homes,07-Jul-22,170.62,3,511.86,102.372,10.2372
+"Bajaj, Birbal",Marble Dining Table,South East,Designer Homes,15-Sep-22,477.05,14,6678.7,1335.74,66.787
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Style and Spa,12-Nov-21,186.96,17,3178.32,635.664,31.7832
+"Bajaj, Birbal",Marble Dining Table,South East,Elite Designs,30-Dec-21,314.69,13,4090.97,818.194,40.9097
+"Bajaj, Birbal",Marble Dining Table,South East,Metro Emporium,24-Dec-22,532.12,13,6917.56,1383.512,69.1756
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Metro Emporium,22-Oct-21,1112.41,5,5562.05,1112.41,111.241
+"Bajaj, Birbal",Wodden Coffee Table,South East,Elite Designs,12-Dec-22,28.72,13,373.36,74.672,3.7336
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Metro Emporium,13-Jul-21,528.09,3,1584.27,316.854,31.6854
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Style and Spa,09-Jul-22,330.84,6,1985.04,397.008,39.7008
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Style and Spa,24-Dec-22,470.86,20,9417.2,1883.44,94.172
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Metro Emporium,25-Oct-21,135.55,5,677.75,135.55,13.555
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Metro Emporium,08-Apr-22,148.19,11,1630.09,326.018,16.3009
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Style and Spa,06-Nov-22,319.56,19,6071.64,1214.328,60.7164
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Home INDIA,06-Feb-22,434.6,15,6519,1303.8,65.19
+"Bajaj, Birbal",Wodden Coffee Table,South East,Home INDIA,11-Apr-21,266.85,3,800.55,160.11,16.011
+"Bajaj, Birbal",Wodden Coffee Table,South East,Metro Emporium,06-Sep-22,187.2,3,561.6,112.32,11.232
+"Bajaj, Birbal",Glass Centre Table,South East,Elite Designs,16-Jan-21,56.62,12,679.44,135.888,6.7944
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Metro Emporium,10-May-22,234.85,2,469.7,93.94,9.394
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Designer Homes,25-Nov-22,5.96,11,65.56,13.112,0.6556
+"Bajaj, Birbal",Wodden Coffee Table,South East,Style and Spa,15-Jan-21,107.97,12,1295.64,259.128,12.9564
+"Bajaj, Birbal",Glass Centre Table,South East,Style and Spa,08-Jan-21,57.31,13,745.03,149.006,7.4503
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Designer Homes,05-Nov-21,1202,7,8414,1682.8,168.28
+"Bajaj, Birbal",Wodden Coffee Table,South East,Designer Homes,08-Oct-22,251.72,15,3775.8,755.16,37.758
+"Bajaj, Birbal",Marble Dining Table,South East,Metro Emporium,17-Sep-21,237.34,10,2373.4,474.68,47.468
+"Bajaj, Birbal",Wodden Coffee Table,South East,Metro Emporium,05-Jul-21,173.16,7,1212.12,242.424,24.2424
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Metro Emporium,28-Jan-22,20.34,16,325.44,65.088,3.2544
+"Bajaj, Birbal",Glass Centre Table,South East,Elite Designs,19-Mar-21,52.09,5,260.45,52.09,5.209
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Elite Designs,11-Dec-22,973.75,15,14606.25,2921.25,146.0625
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Elite Designs,10-Jan-22,735.71,7,5149.97,1029.994,102.9994
+"Bajaj, Birbal",Marble Dining Table,South East,Designer Homes,08-Oct-22,369.14,1,369.14,73.828,7.3828
+"Bajaj, Birbal",Glass Centre Table,South East,Metro Emporium,12-Jun-21,17.66,15,264.9,52.98,2.649
+"Bajaj, Birbal",Marble Dining Table,South East,Metro Emporium,04-Dec-22,522.11,14,7309.54,1461.908,73.0954
+"Bajaj, Birbal",Wodden Coffee Table,South East,Designer Homes,21-Nov-22,140.71,3,422.13,84.426,8.4426
+"Bajaj, Birbal",Wodden Coffee Table,South East,Metro Emporium,10-Jan-22,260.93,6,1565.58,313.116,31.3116
+"Bajaj, Birbal",Marble Dining Table,South East,Elite Designs,24-Oct-22,69.69,6,418.14,83.628,8.3628
+"Bajaj, Birbal",Marble Dining Table,South East,Style and Spa,05-Dec-22,279.58,14,3914.12,782.824,39.1412
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Style and Spa,16-Dec-21,1004.54,14,14063.56,2812.712,140.6356
+"Bajaj, Birbal",Marble Dining Table,South East,Metro Emporium,26-Aug-21,43.26,8,346.08,69.216,6.9216
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Home INDIA,24-Oct-22,216.04,1,216.04,43.208,4.3208
+"Bajaj, Birbal",Marble Dining Table,South East,Home INDIA,25-Oct-21,504.29,8,4034.32,806.864,80.6864
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Home INDIA,14-May-21,289.22,11,3181.42,636.284,31.8142
+"Bajaj, Birbal",Wodden Coffee Table,South East,Style and Spa,14-Jan-22,249.33,14,3490.62,698.124,34.9062
+"Bajaj, Birbal",Wodden Coffee Table,South East,Elite Designs,08-Mar-21,165.77,12,1989.24,397.848,19.8924
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Metro Emporium,11-Nov-22,316.37,11,3480.07,696.014,34.8007
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Home INDIA,28-Oct-22,92.27,14,1291.78,258.356,12.9178
+"Bajaj, Birbal",Wodden Coffee Table,South East,Style and Spa,28-Oct-22,245.03,20,4900.6,980.12,49.006
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Designer Homes,28-Jun-21,1016.39,15,15245.85,3049.17,152.4585
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Metro Emporium,08-Oct-22,480.54,16,7688.64,1537.728,76.8864
+"Bajaj, Birbal",Wodden Coffee Table,South East,Elite Designs,14-Jan-22,97.71,16,1563.36,312.672,15.6336
+"Bajaj, Birbal",Wodden Coffee Table,South East,Metro Emporium,29-Sep-22,22.79,11,250.69,50.138,2.5069
+"Bajaj, Birbal",Glass Centre Table,South East,Elite Designs,09-Aug-22,121.28,8,970.24,194.048,19.4048
+"Bajaj, Birbal",Glass Centre Table,South East,Designer Homes,25-Aug-22,16.01,8,128.08,25.616,2.5616
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Metro Emporium,07-Nov-22,271.14,6,1626.84,325.368,32.5368
+"Bajaj, Birbal",Marble Dining Table,South East,Style and Spa,20-May-21,158.76,16,2540.16,508.032,25.4016
+"Bajaj, Birbal",Wodden Coffee Table,South East,Elite Designs,05-Apr-21,258.54,15,3878.1,775.62,38.781
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Style and Spa,26-Jul-21,401.01,13,5213.13,1042.626,52.1313
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Home INDIA,04-Nov-22,181.18,12,2174.16,434.832,21.7416
+"Bajaj, Birbal",Wodden Coffee Table,South East,Home INDIA,14-Jan-21,159.26,11,1751.86,350.372,17.5186
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Home INDIA,22-Feb-21,9.03,2,18.06,3.612,0.3612
+"Bajaj, Birbal",Glass Centre Table,South East,Designer Homes,17-Jun-22,126.35,12,1516.2,303.24,15.162
+"Kale, Shipra",Wodden Coffee Table,South East,Elite Designs,30-Jan-22,101.33,10,1013.3,202.66,20.266
+"Kale, Shipra",Wodden Coffee Table,South East,Elite Designs,08-Jan-21,3.39,3,10.17,2.034,0.2034
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Designer Homes,15-Mar-22,413.44,4,1653.76,330.752,33.0752
+"Kale, Shipra",Marble Dining Table,South East,Metro Emporium,16-Aug-22,287.03,8,2296.24,459.248,45.9248
+"Kale, Shipra",Marble Dining Table,South East,Elite Designs,09-Aug-21,399.79,15,5996.85,1199.37,59.9685
+"Kale, Shipra",Marble Dining Table,South East,Home INDIA,22-Dec-22,4.51,13,58.63,11.726,0.5863
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Designer Homes,08-Oct-21,140.3,7,982.1,196.42,19.642
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Metro Emporium,15-Nov-22,439.61,14,6154.54,1230.908,61.5454
+"Kale, Shipra",Wodden Coffee Table,South East,Home INDIA,04-Oct-21,90.12,6,540.72,108.144,10.8144
+"Kale, Shipra",Glass Centre Table,South East,Home INDIA,05-Feb-21,102.04,11,1122.44,224.488,11.2244
+"Kale, Shipra",Wodden Coffee Table,South East,Style and Spa,13-Dec-22,45.8,6,274.8,54.96,5.496
+"Kale, Shipra",Glass Centre Table,South East,Metro Emporium,11-Nov-22,123.39,1,123.39,24.678,2.4678
+"Kale, Shipra",Wodden Coffee Table,South East,Metro Emporium,09-Sep-22,50.5,16,808,161.6,8.08
+"Kale, Shipra",Glass Centre Table,South East,Metro Emporium,08-Feb-21,27.2,15,408,81.6,4.08
+"Kale, Shipra",Glass Centre Table,South East,Home INDIA,23-Jul-21,82.03,14,1148.42,229.684,11.4842
+"Kale, Shipra",Marble Dining Table,South East,Designer Homes,31-Oct-21,405.04,16,6480.64,1296.128,64.8064
+"Kale, Shipra",Glass Centre Table,South East,Metro Emporium,02-May-21,25.86,1,25.86,5.172,0.5172
+"Kale, Shipra",Bamboo Foam Couch,South East,Home INDIA,20-Feb-22,554,4,2216,443.2,44.32
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Metro Emporium,24-Jul-21,269.78,10,2697.8,539.56,53.956
+"Kale, Shipra",Glass Centre Table,South East,Metro Emporium,08-Feb-21,54.09,10,540.9,108.18,10.818
+"Kale, Shipra",Bamboo Foam Couch,South East,Style and Spa,14-Sep-21,170.18,14,2382.52,476.504,23.8252
+"Kale, Shipra",Bamboo Foam Couch,South East,Designer Homes,19-Nov-22,16.68,3,50.04,10.008,1.0008
+"Kale, Shipra",Bamboo Foam Couch,South East,Style and Spa,29-Mar-22,147.54,7,1032.78,206.556,20.6556
+"Kale, Shipra",Glass Centre Table,South East,Home INDIA,26-Apr-22,96.89,10,968.9,193.78,19.378
+"Kale, Shipra",Marble Dining Table,South East,Home INDIA,26-Aug-21,127.78,5,638.9,127.78,12.778
+"Kale, Shipra",Marble Dining Table,South East,Metro Emporium,06-Aug-21,264.72,4,1058.88,211.776,21.1776
+"Kale, Shipra",Glass Centre Table,South East,Designer Homes,06-May-22,53.61,7,375.27,75.054,7.5054
+"Kale, Shipra",Wodden Coffee Table,South East,Metro Emporium,07-Jan-22,143.03,16,2288.48,457.696,22.8848
+"Kale, Shipra",Marble Dining Table,South East,Home INDIA,28-Dec-21,528.86,10,5288.6,1057.72,105.772
+"Kale, Shipra",Marble Dining Table,South East,Elite Designs,14-Nov-22,491.92,11,5411.12,1082.224,54.1112
+"Kale, Shipra",Wodden Coffee Table,South East,Designer Homes,18-Nov-22,76.64,8,613.12,122.624,12.2624
+"Kale, Shipra",Bamboo Foam Couch,South East,Style and Spa,27-Nov-22,878.2,20,17564,3512.8,175.64
+"Kale, Shipra",Glass Centre Table,South East,Home INDIA,05-Mar-21,42.63,11,468.93,93.786,4.6893
+"Kale, Shipra",Bamboo Foam Couch,South East,Designer Homes,01-May-22,505.18,10,5051.8,1010.36,101.036
+"Kale, Shipra",Glass Centre Table,South East,Elite Designs,11-Dec-22,123.89,16,1982.24,396.448,19.8224
+"Kale, Shipra",Marble Dining Table,South East,Style and Spa,14-Jan-21,486.33,14,6808.62,1361.724,68.0862
+"Kale, Shipra",Marble Dining Table,South East,Metro Emporium,11-May-21,247.58,16,3961.28,792.256,39.6128
+"Kale, Shipra",Wodden Coffee Table,South East,Home INDIA,30-Dec-22,183.69,8,1469.52,293.904,29.3904
+"Kale, Shipra",Glass Centre Table,South East,Designer Homes,27-Aug-22,84.4,16,1350.4,270.08,13.504
+"Kale, Shipra",Glass Centre Table,South East,Designer Homes,07-Jan-22,97.02,1,97.02,19.404,1.9404
+"Kale, Shipra",Bamboo Foam Couch,South East,Elite Designs,29-Apr-22,1154.08,8,9232.64,1846.528,184.6528
+"Kale, Shipra",Glass Centre Table,South East,Metro Emporium,25-Dec-21,115.73,1,115.73,23.146,2.3146
+"Kale, Shipra",Marble Dining Table,South East,Metro Emporium,13-Jul-21,95.89,15,1438.35,287.67,14.3835
+"Kale, Shipra",Glass Centre Table,South East,Home INDIA,24-Sep-21,39.51,13,513.63,102.726,5.1363
+"Kale, Shipra",Wodden Coffee Table,South East,Designer Homes,12-Sep-21,38.18,4,152.72,30.544,3.0544
+"Kale, Shipra",Marble Dining Table,South East,Style and Spa,02-Jan-22,324.59,13,4219.67,843.934,42.1967
+"Kale, Shipra",Glass Centre Table,South East,Home INDIA,17-Sep-22,110.87,1,110.87,22.174,2.2174
+"Kale, Shipra",Wodden Coffee Table,South East,Home INDIA,06-Dec-22,163.53,16,2616.48,523.296,26.1648
+"Kale, Shipra",Bamboo Foam Couch,South East,Home INDIA,11-Jan-21,993.57,2,1987.14,397.428,39.7428
+"Kale, Shipra",Wodden Coffee Table,South East,Designer Homes,28-Sep-21,62.26,4,249.04,49.808,4.9808
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Designer Homes,16-Jan-22,268.75,14,3762.5,752.5,37.625
+"Kale, Shipra",Glass Centre Table,South East,Home INDIA,01-Jan-22,117.44,12,1409.28,281.856,14.0928
+"Kale, Shipra",Wodden Coffee Table,South East,Metro Emporium,30-Jul-21,230.74,8,1845.92,369.184,36.9184
+"Kale, Shipra",Glass Centre Table,South East,Elite Designs,16-Oct-21,72.35,4,289.4,57.88,5.788
+"Kale, Shipra",Bamboo Foam Couch,South East,Elite Designs,22-Oct-21,223.27,14,3125.78,625.156,31.2578
+"Kale, Shipra",Glass Centre Table,South East,Style and Spa,05-Sep-21,106.79,12,1281.48,256.296,12.8148
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Style and Spa,12-Jun-22,175.13,8,1401.04,280.208,28.0208
+"Kale, Shipra",Bamboo Foam Couch,South East,Elite Designs,13-Nov-22,428.16,7,2997.12,599.424,59.9424
+"Kale, Shipra",Bamboo Foam Couch,South East,Designer Homes,08-Jul-22,137.75,5,688.75,137.75,13.775
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Elite Designs,12-Aug-22,377.57,12,4530.84,906.168,45.3084
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Designer Homes,21-Sep-21,219.46,13,2852.98,570.596,28.5298
+"Kale, Shipra",Bamboo Foam Couch,South East,Style and Spa,24-Sep-22,99.11,21,2081.31,416.262,20.8131
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Metro Emporium,19-Jul-21,487.45,2,974.9,194.98,19.498
+"Kale, Shipra",Wodden Coffee Table,South East,Elite Designs,04-Mar-21,48.63,4,194.52,38.904,3.8904
+"Kale, Shipra",Marble Dining Table,South East,Designer Homes,09-Sep-22,387.47,8,3099.76,619.952,61.9952
+"Kale, Shipra",Wodden Coffee Table,South East,Style and Spa,29-May-22,213.58,19,4058.02,811.604,40.5802
+"Kale, Shipra",Marble Dining Table,South East,Elite Designs,01-Feb-22,365.02,16,5840.32,1168.064,58.4032
+"Kale, Shipra",Wodden Coffee Table,South East,Style and Spa,11-Jan-22,165.08,6,990.48,198.096,19.8096
+"Kale, Shipra",Wodden Coffee Table,South East,Metro Emporium,15-Dec-22,230.84,6,1385.04,277.008,27.7008
+"Kale, Shipra",Bamboo Foam Couch,South East,Style and Spa,27-May-22,817.11,22,17976.42,3595.284,179.7642
+"Kale, Shipra",Marble Dining Table,South East,Metro Emporium,18-Jan-22,313.55,11,3449.05,689.81,34.4905
+"Kale, Shipra",Marble Dining Table,South East,Home INDIA,06-Jan-21,503.03,2,1006.06,201.212,20.1212
+"Kale, Shipra",Marble Dining Table,South East,Home INDIA,11-Jan-21,200.82,6,1204.92,240.984,24.0984
